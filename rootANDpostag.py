@@ -8,18 +8,18 @@ class RootPostag:
     def rootWORD_and_posTAG(self, query):
 
         # The sentence is written in a text file
-        f = open('hindi_pos_root_tagger/hindi.input.txt','w')
+        f = open('Hindi_Pos_Root_Tagger/hindi.input.txt','w')
         f.write(query)
         f.close()
         # The model finds root-words and pos-tags
-        os.system("cd hindi_pos_root_tagger && make tag")
+        os.system("cd Hindi_Pos_Root_Tagger && make tag")
 
         actual_wordlist = []
         pos_taglist = []
         root_wordlist = []
 
         # All the required information is written/stored in text file, hence we need to extract data from that...
-        with open("hindi_pos_root_tagger/hindioutput.txt",'r') as q:
+        with open("Hindi_Pos_Root_Tagger/hindioutput.txt",'r') as q:
             for line in q:
                 fullLine = re.sub('\t', " ", line)
                 wordList = fullLine.split(" ")

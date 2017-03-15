@@ -1,0 +1,4 @@
+तुमको	तुमको	PRP		unk				
+स्कूल	स्कूल	NN	0	n	m	sg	3	d
+जाना	जान	VM	या	v	m	sg	any	
+है	है	VAUX	है	v	any	sg	2	

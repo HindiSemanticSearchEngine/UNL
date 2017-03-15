@@ -1,0 +1,27 @@
+###################### POSTAGS of TAGGER ###################
+
+NN - Noun
+NST - Noun denoting spatial and temporal expressions
+NNP - Proper Nouns
+PRP - Pronoun
+DEM - Demonstratives
+VM - Verb Main
+VAUX - Verb Auxiliary
+JJ - Adjective
+RB - Adverb
+PSP - Postposition
+RP - Particle
+CC - Conjuncts(co-ordinating and subordinating)
+WQ - Question Words
+QF - Quantifiers
+QC - Cardinals
+QO - Ordinals
+CL - Classifiers
+INTF - Intensifier
+INJ - Interjection
+NEG - Negative
+UT - Quotative
+SYM - Special Symbol
+RDP - Reduplication
+ECH - Echo words
+UNK - Unknown
