@@ -1,0 +1,3412 @@
+"babble","N","1.बडबडआना/बकवाद"
+Rita's constant babble irritates Hari.
+--"२.कलकलध्वनिपत्थरोंपरपानीकेबहनेकीमन्दआवाज"
+One could hear the babble of the stream near by.
+
+"babble","VTI","1.बुदबुदाना"
+Ram babbles constantly.
+राम लगातार बुदबुदाता है.
+
+"babbler","N","1.बुदबुदानाकरनेवाला"
+He is a constant babbler.
+
+"babe","N","1.बच्चा" #(archaic)
+She had a babe in her arms.
+उसके हाथों में एक बच्चा था.
+
+"babel","N","1.कोलाहल/गडबडई"
+The babel in the class next door was very disturbing.
+
+"baboon","N","1.बडआबन्दर"
+Mostly baboon's are found in South African Jungles.
+बडआ बन्दर अधिकतर साउथ अफ्रीका के जंगलों में पाया जाता है.
+
+"baby","N","1.शिशु"
+I saw a real cute baby in the Market.
+मैंने बाजार में एक बहुत प्यारा-सा शिशु देखा.
+
+"baby","VT","1.केसाथबच्चेजैसाव्यवहारकरना"
+Even though Rakesh is now six year old his parents still baby him.
+
+"baby-hood","N","1.बचपन"
+Baby-hood is the best stage in onee's life.
+
+"babyish","Adj","1.शिशुवत्"
+Her babyish manners are very irritating.
+
+"baby-carriage","N","1.बच्चागाडईप्रैम"
+It is convenient to carry the baby in a baby-carriage.
+
+"baby-minder","N","1.आया"
+I had to depend on a baby-minder for my children when they were young.
+
+"baby-snatcher","N","1.बच्चाचुरानेवाला"
+Raghu caught the baby-snatcher red-handed while she was lifting the baby from the pram.
+
+"baby-talk","N","1.बच्चेकेसमानबोलनासरलशब्दोंऔरवाक्योंमें"
+It is the normal baby-talk that he gives to his son while feeding him.
+
+"baby-tooth","N","1.दूधकेदात"
+My son is loosing his baby-teeth now.
+
+"baby-sit","V","1.बच्चेकीदेखभालकरनामाता-पिताकीगैरहाजइरीमें"
+I need some one to baby-sit for my daughter tonight.
+
+"baby-sitter","N","1.बच्चेकीदेखभालकरनेवाला"
+She works as a baby-sitter to earn her pocket money.
+
+"bachelor","N","1.कुवारापुरुष"
+Ram is yet a bachelor.
+राम अब तक कुवारा पुरुष है.
+--"२.स्नातक"
+Ram has done his bachelor's degree from St.Stephens.
+
+"baccilus","N","1.एकप्रकारकाबैक्टीरिया"
+
+"back","N","1.पीठ"
+He hurt his back in an accident.
+--"२.पिछलाहिस्सा"
+Usually girls tie knot on the back of their head.
+प्राय: लडकिया चोटी अपने सर के पिछलेहिस्से में बाधती है.
+
+"back-less","Adj","1.बिनापीठवालाकपडआ"
+She was wearing a back-less top.
+
+"back-breaking","Adj","1.कमरतोड"
+It has been quite a back-breaking job.
+
+"back","Adj","1.पीछेका"
+The house has a beautiful view.
+
+"back-bench","N","1.पिछलीसीट्स"
+People sitting in the back-benches are normally less attentive.
+
+"back-bencher","N","1.जिसकेपासकोईआधिकारिकपदनहोऎसासांसद"
+
+"back-door","N","1.पीछेकाद्वार"
+Usually thieves use the back-door to enter the the house.
+प्राय: चोर चोरी करने के लिए पीछे का दरवाजा उपयोग करते हैं.
+
+"backnumber","N","1.पत्रिकाओंकेपिछलेअंक"
+
+"back","Adv","1.वापस"
+On hearing his father's death Sachin returned back to India.
+अपने पिता की मृत्यु की खबर सुनकर सचिन भारत वापस आ गए.
+--"२.पीछेकीओर"
+She kept looking back for her friend.
+--"३.नियंत्रणमें
+She could no longer hold back her laughter.
+--"४.पहले"
+I saw the film a few years back.
+
+"back","VT","1.पीछेहोना`"
+We must not turn back to our duties.
+हमें अपने कर्तव्यों से पीछे नहीं हटना चाहिए.
+--"२.समर्थनदेनाpAnA
+She is backed by the ruling party in her state.
+--"३.सहारादेना"
+Some government agency has to back the research project.
+
+"backer","N","1.सहारादेनेवाला"
+
+"backing","N","1.समर्थन"
+Sachin has a large backing in India.
+--"२.संगत"
+Zakir Hussain provided the tabla backing to his vocal recital.
+
+"backache","N","1.पीठदर्द"
+Eversinceee his accident last summer he gets these backaches.
+
+"backbone","N","1.रीढकीहड्डी"
+He is the back bone of his party.
+He hurt his backbone while lifting the heavy box.
+
+"backbite","V","1.पीठपीछेनिंदाकरना"
+I never realised that she has been backbiting me.
+
+"backbiter","N","1.चुगलखोर"
+Hari is a big backbiter.
+
+"backbiting","N","1.चिगलखोरी"
+I do not like backbiting.
+
+"backchat","N","1.पलटकरजवाबदेना"
+I will not take anymore of your backchat.
+
+"back-cloth","N","1.पृष्ठपट"
+
+"backcomb","V","1.उल्टीओरबालकाढना"
+Backcombing is not very good for one's hair.
+
+"backdate","V","1.पिछलीतिथिडालना"
+Give me a backdated cheque.
+
+"back-drop","N","1.पृष्ठपट"
+The scene had a beautiful back-drop.
+
+"backfire","V","1.उल्टीप्रतिक्रियाहोना"
+The whole plot backfired on them.
+
+"back-formation","N","1.प्रत्यावर्तीरचना"
+
+"background","N","1.पृष्ठभूमि"
+Before marriage Sita wanted to know Ram's background.
+विवाह से पहले सीता राम ही पृष्ठभूमि जानना चाहती थी.
+--"२.चित्रभूमि"
+A painting background of green and blue.
+कलाकृती की चित्रभूमी हरी और नीली है.
+
+"back-hand","N","1.बैकहैंड" #हाथकोमोडकरलगायागयाशॉटटेनिसइत्यादिमें
+He has a strong back-hand.
+
+"back-handed","Adj","1.परोक्ष"
+He often gives back-handed compliments.
+
+"backhander","N","1.रिश्वत"
+
+"backlash","N","1.प्रतिक्षेप"
+
+"backlist","N","1.प्रकाशितहोरहीपुस्तकोंकीसूची"
+
+"backlog","N","1.संचितकार्य"
+I have a lot of backlog to cover before the winter break.
+
+"backpack","N","1.बैगपीठपरलेजानेवाला"
+Backpacks are very convenient for travelling.
+
+"back-pedal","V","1.पलटजाना"
+The government back-pedalled from all its pre-election promises.
+
+"backrest","N","1.पीठकोसहारादेनेवाला"
+She still needs a backrest while sitting up.
+
+"backseat","N","1.पिछलीसीट"
+She is a back-seat driver.
+
+"backside","N","1.पीछेकाहिस्सा"
+Get off your backside and do some work..
+
+"back slide","VI","1.पतितहोना"
+One should not back-slide from his resolutions.
+
+"backspace","V","1.एकस्थानसेपीछेजाना"
+
+"backstage","Adv","1.नेपथ्यमें"
+No one knows what really goes on backstage.
+
+"backstroke","N","1.पीठकेबलतैरना"
+
+"backtalk","V","1.पलटकरजवाबदेना"
+
+"backtrack","V","1.वापिसजाना"
+
+"back-up","N","1.सहायता"
+The military had BSF back-up
+--"२.प्रतिलिपि"
+Always keep back-ups of your files in a floppy.
+
+"backward","Adj","1.पिछडआहुआ"
+India is still backward in Sciencee and Technology.
+भारत विज्ञान और तकनीकी में अब भी पिछडआ हुआ है.
+--"२.पीछेकीओर"
+He gave a backward glance.
+उसने पीछे की ओर देखा
+Going back to Jaipur would have been a backward step for her.
+जयपुर वापस जाना उसके लिये एक पीछे की ओर लिया कदम होता.
+
+"backwards","Adv","1.पीछेकीओर"
+Instead of going forward Ram was going backwards.
+आगे जाने की बजाय राम पीछे की ओर जा रहा था.
+
+"backwash","N","1."
+
+"backwater","N","1.अप्रवाहीजल"
+
+"backwoods","N","1.अरण्य"
+
+"backyard","N","1.पिछवाडआ"
+She grows vegetables in her backyard.
+
+"bacon","N","1.सूअरमासनमकीन"
+Tribal people prefer to eat bacon in their meal.
+आदिवासी लोग अपने भोजन में सुअर का मांस खाना पसंद करते हैं.
+
+"bad","Adj","1.खराब"
+Foreigners' pronunciation of Hindi is mostly bad.
+विदेशियों का हिंदी उच्चारण अधिकतर बुरा होता है.
+Cricketers can't play if the light is bad.
+यदि बत्ती खराब हो तो क्रिकेटर्स नहीं खेल सकतेहैं.
+--"२.बुरा"
+He is going through a bad period.
+वह बुरे दौर से गुजर रहा है.
+--"३.गम्भीर"
+Ravi's accident was quite a bad one.
+रवि की दुर्घटना काफी गम्भीर थी.
+
+"badge","N","1.बिल्ला"
+Ram wore a badge saying,"SAVE THE ENVIRONMENT"
+राम ने एक बिल्ला लगा रखा था जो दर्शाता था ,"वातावरण को बचाओ.
+
+"badger","N","1.बिज्जू"
+Badgers move in the night.
+बिज्जू रात में घूमते हैं.
+
+"badger","VT","1.पीछणडफौ"
+Tom has been badgering his father to buy him a Camera.
+टौम कैमरा दिलाने के लिए अपने पिता के पीछे पडआ है.
+
+"badly","Adv","1.बुरीतरहसे"
+I'm afraid that I've badly hurt him.
+मुझे डर है कि मैंने उसको बुरी तरह से आहत किया है.
+Terrorists treat people very badly.
+आतंकवादी लोगों के साथ निर्दयता से पेश आते हैं.
+
+"badminton","N","1.बैडमिंटन"
+Badminton is my favourite sport.
+मेरा सर्वप्रिय खेल है.
+
+"baffle","VT","1.असमंजसमेंडालना"
+Sita was baffled when she saw a twin of Ram.
+सीता असमंजस में पड गयीं जब उसने राम के जुडवा को देखा.
+--"२.रुकावटडालना"
+Ravi baffled all their efforts to find the thief.
+
+"baffle","N","1.पर्दारुकावट"
+Since the house is on the main street we need baffles on our windows.
+
+"bag","N","1.थैला"
+I forget to take the bag when I went to the market.
+जब मैं बाजार गयी तो थैला ले जाना भूल गयी.
+--"२.उभरना"
+Sita had dark bags under her eyes due to lack of vitamins.
+विटामिन की कमी के कारण सीता की आखों के नीचे काले घेरे उभरने लगे.
+
+"bag","VT","1.थैलेमेंरखना"
+They bagged the best vegetables in the basket.
+--"२.लेलना"
+She has already bagged the most comfortable chair.
+उसने पहले ही सबसे आरामदायक कुर्सी पकड ली.
+--"३.झूलना"
+Her trousers were bagging from the knee.
+
+"baggage","N","1.यात्री का सामान/सामान"
+No one should steal the baggage.
+किसी को भी यात्री का सामान नहीं चुराना चाहिए"
+
+"baggage-car","N","1.सामानगाडई"
+We need a baggage car to carry the luggage to the station.
+
+"baggage-room","N","1.सामानकक्ष"
+On arriving at the station we deposited the luggage in the baggage-room.
+
+"bagpipe","N","1.मशकबीन"
+Bagpipe is famous in America.
+मशकबीन अमैरिका में मशहूर है.
+
+"bail","N","1.जमानत"
+Sanjay's bail was setup at $1 million.
+संजय की जमानत १ मिलियन ़ पर निश्चित हुई.
+
+"bailiff","N","1.अमीन"
+Ram was appointed as the bailiff in his town.
+
+"bait","N","1.चारा"
+Wet flour is like a bait for fishes.
+The Intelligence agency used her as a bait to trap the spies.
+
+"bait","VT","1.चारारखना"
+The fisherman baited the hook with a worm.
+
+"baize","N","1.ऊन का कपडआ जो टेबल पर बिछाते हैं"
+She covered the table with a baize.
+
+"bake","VT","1.सेकना"
+Sita is baking breads for breakfast.
+
+"baker","N","1.बेकर/नानबाई"
+I always buy cakes from the bakers.
+
+"baking","N","1.सेंकनेकीक्रिया"
+Get me a baking tin.
+
+"bakery","N","1.बेकरी"
+Variety of cakes are available in Gurunanak backery.
+
+"bakelite","N","1.एक प्रकार का प्लास्टिक"
+He has an old fashioned black bakelite telephone.
+
+"balance","N","1.तराजऊ"
+One should always buy only ISI marked balance.
+
+"balance","V","1.संतुलनरखना"
+Students should be taught to balance their time between games and studies.
+--"२.बकायानिकालना"
+Our accountant has not yet found the balance of our company's annual account.
+
+"balcony","N","1.छज्जा"
+We saw the procession from the balcony.
+
+"bald","Adj","1.गंजा"
+Ram uses a wig to cover his bald head.
+--"२.नीरस"
+He always gave a bald look after his failure in exam.
+
+"balding","Adj","1.गंजापन होना"
+Ram is a balding young man.
+
+"baldness","N","1.गंजापन"
+Ram's baldness started too soon.
+
+"bale","N","1.गठरी"
+The washerman carried bales of clothes .
+
+"bale","V","1.छटरीपेराशूटसेउतरना"
+The pilot safely baled out from the damaged aircraft.
+
+"baleful","Adj","1.नुकसानदायक"
+Nuclear bombs are baleful things.
+
+"ball","N","1.गेंद/गोला"
+Ram is throwing his ball.
+
+"ballad","N","1.सादागाना"
+The English Romantic poets of 19th century wrote lyrical ballads.
+
+"ballast","N","1.रोडआ"
+Ballasts are used to make foundations for railways.
+
+"ballet","N","1.नृत्यनाटिका/नाटक"
+Have you seen this ballet before?
+
+"balloon","N","1.गुब्बारा"
+On NewYear day we saw many balloons floating in the air.
+
+"ballot","N","1.मत-पत्र"
+This year special ballot boxes were made to keep the ballots.
+
+"ballot","V","1.मतदान"
+The party balloted its members.
+
+"balm","N","1.मरहम/बाम"
+The gentle music is balm to Ram's ears.
+
+"balmy","Adj","1.सुखदायक"
+Soft music sounds balmy.
+
+"balsam","N","1.गुलमेहदी"
+Balsam is grown in our school garden.
+
+"ballyhoo","N","1.शोर गुल"
+Ram does not like ballyhoo.
+
+"bamboo","N","1.बास"
+There are many trees of bamboo in India's forests.
+
+"ban","N","1.प्रतिबंध"
+The government should put a ban on smoking in public places.
+
+"ban","VT","1.प्रतिबंधलगाना"
+The government has banned the use of chemical weapons.
+
+"banal","Adj","1.साधारण"
+The teacher wrote some banal remarks in his book.
+
+"banana","N","1.केला"
+Banana is good for health.
+
+"band","N","1.पट्टी"
+Ram rolled the paper up and put a rubber band around it.
+
+"bandage","N","1.पट्टी"
+He tied a bandage roud the wounded leg.
+
+"bandage","VT","1.पट्टीबाधना"
+He bandaged up his wounded leg.
+
+"bandanna","N","1.रंग_बिरंगा कपडा"
+The hero in the film always tied a bandanna round the neck.
+
+"bandit","N","1.डाकू"
+A group of bandits from Chambal surrendered before the police.
+
+"bane","N","1.परेशानयागुस्सादिलानेवाला"
+The neighbour's children are a bane of my life.
+
+"bang","VT","1.धमाकेदारआघातकरना"
+He kept banging on the door.
+
+"bangle","N","1.चूडई"
+Sita like bangles.
+
+"banish","VT","1.निकालदेना"
+The revolutionary poet was banished from his country for life.
+
+"banishment","N","1.देश-निकाला"
+Even lifelong banishment couldnot stop the revolutionary poet from writing.
+
+"bank","N","1.बैंक"
+I deposit my money in the bank.
+--"२.किनारा"
+History tells that civilizations evolved at the bank of rivers.
+
+"bank","V","1.बैंकमेरूपयारखना"
+Ram banks his money for safety.
+
+"bankbalance","N","1.जमा शेष राशि"
+My bankbalance is always low at the end of the month.
+
+"bank-book","N","1.जमा पुस्तिका"
+Bank-book contains customer's bank account.
+
+"banker","N","1.बैंककासंचालक/साहूकार"
+Ram borrows money from his banker.
+
+"banking","N","1.महाजनी"
+Sita choose banking as a career.
+
+"bank roll","V","1.किसीकीआर्थिकसहायताकरना"
+Indian cricket team is mainly bank rolled by soft drinks company.
+
+"bankrupt","N","1.दिवालिया"
+Wemust strive to make a society that is not morally bankrupt.
+
+"bankruptcy","N","1.दिवाला"
+Forty bankruptcies were recorded in this town last year.
+
+"banner","N","1.झंडा"
+Sita fought the election under the banner of equal rights.
+
+"bantam","N","1.एकप्रकारकाचूजा"
+Bantams are small chickens.
+
+"banquet","N","1.भोज"
+My friend had the privilege of attending a state banquet in honour of the visiting French president.
+
+"banqueting","Adj","1.भोजोत्सव"
+Her father is the owner of the town's banqueting hall.
+
+"banter","N","1.हास्य/उपहास"
+We saw the traditional banter between officers and subordinates on Labour Day.
+
+"bantering","V","1.दिल्लगीकरना"
+We saw officers and subordinates bantering with each other.
+
+"baptize","VT","1.बप्तिस्मादेना"
+He was baptized Vinoth Bernard.
+
+"baptism","N","1.बप्तिस्मा"
+Bernard's baptism was done in the Catholic Church.
+
+"Baptist","N","1.बप्तिस्मा दाता"
+He is a devout Baptist.
+
+"bar","Prep","1.कोछोडकर"
+The whole group is here bar two.
+
+"bar","N","1.शराबघर"
+I saw Ram walking into the bar.
+--"२.सलाख/शलाका"
+They fitted bars to their windows for safety.
+--"३.रुकावट"
+Poor health may be a bar to success in life.
+
+"barb","N","1.आकडई"
+Her barbs of sarcasm had clearly struck home.
+
+"barbed","Adj","1.काटेदार"
+They managed to jump over the barbed fence.
+
+"barbarian","N","1.असभ्य/जंगली"
+Sometimes videojockies act like barbarians.
+
+"barbaric","Adj","1.क्रूर"
+Ram is a barbaric man.
+
+"barbarity","N","1.गवारु"
+Recently I read a book on the barbarity of Nazis in concentration camps.
+
+"barbarism","N","1.ज
+It was a horrible experience to see a movie on Nazi barbarism.
+
+"barbarous","Adj","1.गवार"
+Ram treats his children barbarous trite.
+
+"barbecue","N","1.बारबेक्यू/सींकमासभूनना"
+We had barbecue on the beach.
+
+"barber","N","1.नाई"
+Ram goes to the barber to get his hair cut.
+
+"bard","N","1.भाट/कवि"
+William Shakespeare is also known as the bard of Stratford-on-Avon.
+
+"bare","Adj","1.निर्वस्त्र"
+In the movie the hero fought with bare hands.
+--"२.स्पष्ट"
+His bare dislike for capitalism is known to all.
+--"३.अनलंकृत"
+He presented the bare facts of the case before the Jury.
+
+"bare","V","1.निर्वस्त्रकरना"
+She bared her veiled face.
+--"२.प्रकटकरना"
+He bared the facts of the case before the Jury.
+
+"barefoot","Adj","1.न
+Ram goes to school barefoot.
+
+"barefooted","Adv","1.न
+Hema dances barefooted.
+
+"barely","Adv","1.मुश्किलसे"
+Ram barely passed in this final exam.
+He was so short that he could barely reach the table top.
+--"२.मात्र"
+Barely 5% of the population in India knows English well.
+
+"bargain","N","1.लेन-देन"
+We will give you a good discount as part of the bargain.
+
+"bargain","V","1.मोल-भावकरना"
+We have to bargain in order to buy something at less price.
+
+"barge","V","1.जबरदस्तीघुसना"
+We can't just barge into Vice Chancellor's office.
+
+"bark","N","1.वृक्षकीछाल"
+The sparrow sat on the bark of the tree.
+
+"bark","VI","1.भौकना"
+The dog barks loudly at the night.
+
+"barley","N","1.जौ"
+Barley is used for beer and whisky.
+
+"barn","N","1.खलिहान"
+They live in a great barn of a house.
+
+"barometer","N","1.नापने कि इकाई/बैरोमीटर"
+Barometer is used for measuring of air pressure.
+
+"baron","N","1.ताल्लुकदार"
+In other countries they have the title baron.
+
+"baroness","N","1.तालुकदारस्त्री."
+Baroness is also a title in England.
+
+"barrack","N","1.सेना निवास/बैरक"
+There use to be barracks in this town.
+
+"barrel","N","1.पीपा"
+Oil is stored in barrels.
+
+"barrel","VT","1.पीपेमेभरना"
+Oil is barrelled before shipping to other countries.
+
+"barren","Adj","1.ऊसर/बंजर भूमि"
+We can not use barren for producing any crops.
+
+"barricade","N","1.मोरचा"
+The soldiers stormed the barricades erected by the rioters.
+
+"barricade","VT","1.मोरचाबाधना"
+The soldiers barricaded in the valley.
+
+"barrier","N","1.अवरोध/रोक"
+Poor health may become a barrier in the way to success.
+
+"barring","Prep","1.केअलावा"
+Meals are available at all times,barring Sunday evenings.
+
+"barrister","N","1.विधिवक्ता/बैरिस्टर"
+Mahatma gandhi was a barrister.
+
+"barrow","N","1.ठेला-गाडई"
+Barrows are used in villages.
+
+"barter","N","1.अदला-बदली/विनिमय"
+In ancient times wheat was a barter for machinery.
+
+"barter","V","1.वस्तु-विनिमयकरना"
+In ancient times wheat was bartered for machinery.
+
+"base","Adj","1.तुच्छ/नीच"
+They spend most of their time in taking about base topics.
+
+"base","N","1.आधार"
+It is said that Sanskrit is the base of all European languages.
+
+"base","VT","1.आधारितकरना"
+Ram's PHD dissertation was based on computer.
+
+"baseless","Adj","1.निराधार"
+Ram's charges on financial irregularies in the company were baseless.
+
+"bashful","Adj","1.लज्जाशील/संकोची"
+Don't be bashful, tell me what you want?
+
+"basic","Adj","1.बुनियादी"
+First you should have the basic knowledge of computer.
+
+"basic","N","1.मूलतत्त्व"
+His basic problem is with the spoken language .
+
+"basil","N","1.तुलसी"
+Basil is a medicinal plant .
+
+"basin","N","1.चिलमची/कुण्डी"
+The village lay in a peaceful basin surrounded by hills .
+
+"basis","N","1.आधार"
+I didn't find any basis in his argument.
+
+"bask","V","1.धूपमेगरमकरनायासेकना"
+Many tourists can be seen basking on the beach.
+
+"basket","N","1.डलिया"
+They picked three basket of apple.
+
+"basketball","N","1.एक प्रकार का खेल"
+Ram is the best basketball playerin our school.
+
+"bass","Adj","1.गिटारबिजलीसेचलनेवाला"
+The song was accompanied by bass and drums.
+--"२.मन्द्रसंगीत"
+He is a bass.
+
+"bastard","N","1.दोगला/अवैधसंतान"
+Children teased the orphan as bastard.
+
+"bastion","N","1.गढ/छावनि"
+Flying aircrafts has been a male bastion.
+
+"bat","N","1.बल्ला"
+I bought a new bat for my nephew.
+--"२.चमगादड"
+Bat is a mammal.
+
+"bat","V","1.बल्लेबाजईकरना"
+Hari was batting when the game had to be abondened because of teh rain.
+
+"batch","N","1.जत्था"
+A new batch of recruits for the Army is going to join tomorrow.
+
+"bath","N","1.नहाना"
+Ram takes bath every morning.
+
+"bathroom","N","1.स्नानघर"
+Ram takes bathe in his bathroom.
+We have two bathrooms in our house.
+
+"batik","N","1.कप
+She wore a batik dress.
+
+"batman","N","1.एकसेनिकजोसेनाकेअधिकारीकानौकरहैं"
+He is a batman in the army.
+
+"baton","N","1.छ
+It is a woodden baton.
+
+"baton round","N","1.नकलीकारतूस"
+The policeman fired baton round to scare the protesters.
+
+"batsman","N","1.बल्लेबाज"
+He is a good batsman.
+
+"battalion","N","1.सेनाकीरेजिमेंटकाएकभाग"
+The Gurkha battalion is known for its bravery.
+
+"batten","N","1.तख्ता"
+There is a wooden batten in the drawing room.
+
+"batten","V","1.फलफूलना/मौजकरना"
+He battened on his father's income.
+
+"batter","N","1.घोल"
+Ram prepared the batter for the pudding.
+
+"batter","VT","1.मारना/कूटना"
+He battered at the door with his fists.
+
+"battered","Adj","1.क्षतिग्रस्त"
+He sold his battered car.
+
+"battery","N","1.बैटरी"
+The tape recorder didn't work because the battery was down.
+--"२.तोपखाना"
+He is the battery commander.
+
+"battle","N","1.लडआई/युध्द"
+Tipu Sultan was defeated in the battle of Seringapatnam.
+
+"battle","VI","1.लडना"
+He is battling with life in the hospital.
+
+"battle-cruiser","N","1.एकब
+A battle-cruiser is faster than a ship.
+
+"battle-cry","N","1.युद्धकानारा"
+,Do or die'is a battle-cry.
+
+"battleaxe","N","1.कुठारफरसा/परशु"
+Battleaxe is a weapon.
+
+"battlefield","N","1.रण-भूमि"
+Kurukshetra was the battlefield for Mahabharata war.
+
+"battlements","N","1.मोर्चाचहारदीवारी"
+These are the battelments of this tower
+
+"battleship","N","1.युद्धपोत"
+,INS Vikrant' is a very famous battleship of India.
+
+"batty","Adj","1.सनकी/मुर्ख"
+He is a batty man.
+
+"bauble","N","1.भडकीलीसस्तीचीज"
+He bought a cheap bauble for the baby.
+
+"baulk","N","1.हिचकिचाना"
+The horse baulked the high hedge.
+
+"bauxite","N","1.एल्युमिनियमकाअयस्क"
+bauxite is an ore.
+
+"bawdy","Adj","1.अश्लीलवार्तालाप"
+He cracked bawdy jokes.
+
+"bawl","V","1.जओरसेरोनायाचिल्लाना"
+In Orissa,the cyclone victims were bawlding for food and shelter.
+
+"bay","N","1.खाडई"
+The Bay of Bengal is in the eastern side of India.
+--"२.कुत्तोंकीएकविशेषप्रकारकीभौक"
+I heard the bay of hunting dogs last night.
+--"३.एकप्रकारकापेडजिसकेहरेपत्तेऔरजामुनीफलहो"
+I like the fruit of bay.
+
+"bay","V","1.भौंकनाशिकारीकुत्तोंका"
+I heard hunting dogs baying at night.
+
+"bayonet","N","1.बेनट"
+Bayonet of rifles are coated with poison.
+
+"bayonet","VT","1.बेनटसेवारकरना"
+The soldiers were bayoneted.
+
+"bazaar","N","1.बाजआर"
+Ram goes to the bazaar.
+
+"be","V","1.होना"
+Don't worry be happy.
+
+"beach","N","1.समुद्रतट"
+Beach of Bombay is very beautiful.
+
+"beach","V","1.समुद्रकेकिनारेपरलाना"
+We have to find a place to beach the boat.
+
+"beach-ball","N","1.गेंदसमुद्रतटपरखेलीजानेवाली"
+Beach -ball is a light colourful ball used for playing games.
+
+"beach buggy","N","1.बीचबगीसमुद्रतटपरदौडआयाजानेवालास्वचालितवाहन"
+We raced the beach buggies.
+
+"bead","N","1.गुटकामालाकादाना"
+She is wearing a necklace of beads.
+
+"beam","N","1.तराजूआदिकाडण्डा"
+He lifted the iron beam.
+--"२.प्रकाशकीकिरण"
+A beam of light entered the room through the ventilator.
+--"३.प्रसन्नआकृति"
+She is always full of beam and happiness.
+
+"beam","V","1.प्रकाशडालना"
+The sunrise beamed on the whole countryside.
+--"२.मुस्कुराना"
+She was beaming with joy.
+
+"bean","N","1.सेम"
+I like the curry made of beans.
+
+"bear","N","1.भालू"
+I saw a bear in the zoo.
+
+"bear","VT","1.धारण करना"
+She bears the title of Duchess.
+--"२.बर्दाश्तकरना"
+I cannot bear his constant criticism.
+--"३.वहनकरना"
+She is bearing his child.
+
+"beard","N","1.दाढई"
+My father has a long beard.
+मेरे पिता की लम्बी डाढई है.
+
+"beard","V","1.ललकारना"
+He was brave enough to beard his senior on this issue.
+वह इतना बहादुर था कि अपने वरिष्ठ (अधिकारी) को इस विषय पर ललकार सका.
+
+"beast","N","1.जानवर"
+The lion is called the King of beasts.
+--"२.असभ्यव्यक्ति"
+Only a beast could beat his wife.
+
+"beat","N","1.धडकन"
+He could feel the beat of her heart.
+--"२.ताल"
+He heard the beat of a drum.
+
+"beat","V","1.हराना"
+Agassi beat Becker in a tennis match.
+--"२.वारकरना"
+Thugs beat him up when he walking down the street late at night.
+--"३.खटखटाना"
+He kept on beating on the door but no one opened it.
+--"४.धडकना"
+Her heart was beating fast.
+--"५.टकराना"
+Hailstorms beat against the windows.
+--"६.तडपाना"
+The sun was beating down on us
+--"७.फेंटना"
+I beat the egg whites to make omelette.
+--"८.पीटना"
+She beat her breast out of emotion.
+
+"beautiful","Adj","1.सुन्दर"
+I saw a beautiful child in the park.
+
+"beautify","VT","1.सजाना"
+The garden was beautified on the occasion of Christmas.
+
+"beauty","N","1.सुन्दरता"
+The Miss World is a woman of great beauty.
+
+"beaver","N","1.ऊदबिलाव"
+Beaver is an amphibian.
+
+"beaver away","PhrV","1.कडईमेहनतकरना"
+I beaver away whole day at this work.
+
+"becalmed","Adj","1.हवानहोनेकेकारणहिलनेमेंअसमर्थजहाजसेसंबंधित"
+The passengers were stranded at the port due to the becalmed ship.
+
+"because","Conj","1.क्योकि"
+I couldn't attend the class because I was not well.
+
+"beck","N","1.छोटीनाली"
+There are many becks in my village.
+
+"beckon","VT","1.संकेतकरना"
+From the balcony she beckoned to come to her home.
+
+"become","V","1.बनना"
+I wish to become a translator.
+--"२.फबना/उचितहोना"
+Foul language doesn't become her.
+
+"becoming","Adj","1.युक्त/अनुरूप"
+She has a becoming hairstyle.
+
+"bed","N","1.बिछौना"
+He sat on the edge of the bed.
+--"२.क्यारी"
+The gardener watered the bed of roses.
+--"३.तल"
+He searched for treasure on the ocean bed.
+--"४.आधार"
+The railway tracks are laid on a bed of stones.
+
+"bed","VT","1.रातकोशरणदेना"
+The inn keeper could bed all the new arrivals.
+--"२.पौधालगाना"
+The gardener bedded the roots in the compost.
+--"३.संभोगकरना"
+He has bedded many girls.
+
+"bedeck","VT","1.सजाना"
+We bedecked the Xmas tree.
+
+"bedlam","N","1.पागलखाना"
+Lunatics are put up in bedlams.
+
+"bedridden","Adj","1.शय्याग्रस्त"
+She was bedridden with jaundice for two months.
+
+"bee","N","1.मधुमक्खी"
+She was stung by a bee.
+
+"beef","N","1.गोमांस"
+Some communities don't eat beef.
+
+"beehive","N","1.मधुमक्खीकाछत्ता"
+I found a big beehive on the nearby mango tree.
+
+"beep","N","1.एकप्रकारकीआवाज"
+I heard a beep from the computer.
+
+"beep","V","1.आवाजकरना"
+The computer beeps regularly.
+
+"beer","N","1.बियरएकप्रकारकीमदिरा"
+Sometimes drinking beer is good for health.
+
+"beer-house","N","1.शराबघर"
+Some criminals were spotted in the beer-house by the police.
+
+"beet","N","1.चुकन्दर"
+I like the curry of beet.
+
+"beetle","N","1.मोगरी"
+She was stung by a beetle.
+
+"befall","V","1.आपडना"
+He promised that no harm would befall her.
+
+"befit","V","1.शोभादेना"
+The beauty crown befits her.
+
+"before","Adv","1.के_पहले"
+I reached the cinema hall before you.
+
+"before","Prep","1.के_आगे/केसामने"
+They danced before me.
+--"२.केपहले"
+I had known her before you introduced her to me.
+
+"beforehand","Adv","1.पहलेसे"
+He gave me the book beforehand.
+
+"befriend","V","1.दोस्तीकरना"
+He can easily befriend anyone.
+
+"befuddled","Adj","1.स्वयंकोमूर्खबनाना"
+He has befuddled himself by drinking.
+
+"beg","V","1.भीखमांगना"
+He was begging in the street.
+--"२.प्रार्थनाकरना"
+I beg you to stop drinking!
+
+"beget","VT","1.जनकहोना"
+Shiva beget Ganesha.
+--"२.उत्पन्नकरना"
+Unemployment begets crime.
+
+"beggar","N","1.भिखारी"
+One should discourage the beggars.
+
+"beggar","V","1.कंगालकरदेना"
+His spendrift habits will soon beggar him.
+
+"beggarly","Adj","1.बहुतकमऔरसस्ता"
+We are given a beggarly wage.
+
+"begin","VI","1.प्रारम्भहोना"
+The programme begins in the evening.
+
+"begin","VT","1.प्रारम्भकरना"
+They will begin the programme in the evening.
+
+"beginner","N","1.प्रारम्भकरनेवाला"
+He is a good beginner in the game of chess.
+--"२.नौसीखीया"
+He is still a beginner in the art of karate.
+
+"beginning","N","1.आरम्भ"
+He was responsible for the beginning of negotiations.
+
+"begrudge","V","1.देनेमेंसंकोचकरना"
+I begrudge every paise I spend.
+--"२.असंतोष"
+We begrudge her on her success.
+
+"beguile","V","1.किसीकोखुशकरना"
+He beguiled us with his charm and manners.
+--"२.खुशीसेसमयबिताना"
+We narrated our experiences of life to beguile the tedium of journey.
+--"३.बेवकूफबनाना"
+Some thugs beguiled him into giving a large sum of money.
+
+"behalf","N","1.हेतु"
+He addressed the UN council on behalf of Prime Minister.
+
+"behave","VI","1.व्यवहारकरना"
+He behaves decently with everyone.
+
+"behaviour","N","1.बर्ताव"
+He is known for his decent behaviour.
+
+"behead","V","1.सिरकाटना"
+The French King was beheaded during the Revolution.
+
+"behest","N","1.आज्ञा"
+The Foreign Minister addressed the meeting at the behest of PM.
+At the behest of the commander, all the soldiers moved forward.
+
+"behind","Prep","1.केपीछे"
+The sun disappeard behind the clouds.
+He was behind by two points at the end of the match.
+
+"behind","Adv","1.पीछेसे"
+She came from behind.
+
+"behind","N","1.कूल्हा"
+He kicked the boy's behind.
+
+"behindhand","Adj","1.देरीकरनाखासकरकर्जउतारनेमें"
+Our tenants are always behindhand with rent.
+
+"behold","VT","1.निहारना"
+The happiness on Rita's face was a joy to behold.
+I beholded her beauty .
+
+"beholden","Adj","1.कृतज्ञ"
+Patients are beholden to the doctor .
+
+"behoof","N","1.लाभ"
+Medicines are behoof for patients.
+
+"behove","VT","1.उपयुक्तहोना"
+That tape is no more behove to me.
+
+"being","N","1.जीव"
+We saw a movie of strange beings from other planet.
+--"२.हस्ती"
+I detest violence with my whole being.
+--"३.अस्तित्व"
+What is the purpose of our being.
+
+"belch","VT","1.डकारलेना"
+He belched after having a heavy meal.
+
+"beleaguered","Adj","1.घेराहुआ"
+There was no news from the beleaguered military garrison.
+
+"belie","VT","1.झूठाकरना"
+The lawyer belied the guilty.
+
+"belief","N","1.विश्वास"
+I have firm belief in Ram.
+
+"believe","V","1.विश्वासकरना"
+You should believe in God.
+--"२.मानना"
+Her neighbours believe that she was murdered.
+
+"belittle","VT","1.छोटाकरना"
+The rich zamindar belittled the farmer by insulting him before the Panchayat.
+
+"bell","N","1.घंटा"
+He rang the church bell.
+
+"belle","N","1.सुन्दरी"
+Belles from various countries participated in the beauty event.
+
+"bellicose","Adj","1.लडआकू"
+He is of a bellicose nature.
+
+"belligerent","Adj","1.युद्धकारी"
+He is quite belligerent.
+
+"belligerent","N","1.योद्धा"
+Maharana Pratap was a great belligerent.
+
+"bellow","V","1.पीडआकेकारणरोना"
+The patients bellowed in the hospital.
+--"२.गुस्सेसेचिल्लाना"
+She bellowed at him for making offensive remarks.
+
+"bellows","N","1.धौंकनी"
+In villages, women use bellows to make a fire burn better.
+
+"belly","N","1.पेट"
+Ravi fills his belly with nuts and chocolates.
+
+"belly out","PhrV","1.फूलउठना"
+The sails bellied out.
+
+"belong","V","1.सदस्य होना"
+I belong to a Nair family.
+
+"belongings","N","1.सम्पत्ति"
+She gave all her belongings to her son.
+
+"beloved","Adj","1.प्रिय"
+Her beloved daughter is arriving tommorrow from America.
+
+"beloved","N","1.प्रिय"
+Gayatree is Ravi's beloved.
+
+"below","Prep","1.केनीचे"
+The pen was kept below the books.
+
+"belt","N","1.बैल्ट/पट्टा"
+Hari bought a black leather belt for his son.
+--"२.क्षेत्र"
+Pithampur is an industrial belt on the outskirts of Indore.
+
+"bemoan","VTI","1.दुखप्रकटकरना"
+We bemoaned the demise of our uncle.
+
+"bench","N","1.बैंच"
+Harish has been sitting on the bench for two hours.
+--"२.न्यायपीठ"
+The bench gave the judgement in his favour.
+
+"bend","N","1.घुमाव"
+There is a bend in the road.
+
+"bend","VTI","1.मोडनाmuDanA"
+It is very difficult to bend an iron rod.
+
+"beneath","Prep","1.नीचे"
+I dumped all my things beneath the bed.
+It is beneath me to quarrel over such petty issues.
+
+"benediction","N","1.आशीर्वाद"
+The priest conferred his benediction on the young girl.
+
+"benefactor","N","1.धनआदिसेसहायताकरनेवाले"
+The Birla Group has been a benefactor to many educational institutions in India.
+
+"benefice","N","1.धर्मवृत्ति"
+Payment of income to priests is the responsibility of the benefice.
+
+"beneficial","Adj","1.लाभदायक"
+Fruits are beneficial to health.
+
+"benefit","N","1.लाभ"
+There are many benefits of nuclear energy.
+
+"benefit","VT","1.भलाकरना"
+The new facilities have benefitted the hostel inmates.
+
+"benevolence","N","1.भलाई"
+Mother Teresa is known for her benevolence.
+
+"benevolent","Adj","1.दयालु"
+She has a benevolent nature.
+
+"benign","Adj","1.कृपालु"
+He is known for his benign disposition.
+
+"bent","Adj","1.टेढआ"
+He connected the tape with a bent wire.
+
+"bent","N","1.झुकाव"
+She has strong musical bent.
+
+"bequeath","VT","1.वसीयत करना"
+She has bequeathed Rs 7 lacs for her grandchildren.
+
+"bequest","N","1.वसीयत"
+She has left a bequest of Rs7 lacs for her grand children.
+
+"berate","VT","1.डाटना"
+The teacher berated the students for their poor performance in exam.
+
+"bereave","VT","1.छीन लेनावंचितकरना"
+He has been recently bereaved and is off work.
+
+"bereavement","N","1.शोकगमी"
+The whole family is plunged in bereavement due to the death of father.
+
+"berry","N","1.झडबेरी"
+I like gooseberries.
+
+"berth","N","1.बर्थ/शायिका"
+I got a berth on the middle deck.
+
+"berth","VT","1.जगह देना"
+I was berthed on the middle deck.
+
+"beset","VT","1.घेरलेना"
+We must bravely face the difficulties that beset us.
+
+"beside","Prep","1.पास"
+He sat beside me.
+
+"besides","Adv","1.के अतिरिक्त"
+Shiva is my eldest nephew and I have three others besides.
+
+"besides","Prep","1.केअलावा"
+There will be three of us for the party,besides children.
+
+"besiege","VT","1.घेरलेना/घेराडालना"
+The troops besieged the fort.
+
+"best","Adj","1.सर्वोत्तम"
+I don't know the best film of the year.
+
+"best","Adv","1.सबसेअच्छा"
+I work best in the morning.
+
+"best","N","1.सर्वोत्तम"
+I tried my level best to win the match.
+
+"bestow","VT","1.प्रदान करना"
+Dr.Abdul Kalam was bestowed with Bharat Ratna for his contribution to science
+and technology.
+
+"bet","N","1.शर्त"
+We made a bet of Rs 100.
+
+"bet","VT","1.दाव लगाना"
+I bet it will rain tommorrow.
+
+"betray","VT","1.विश्वासघातकरना"
+Her smile betrayed her true feelings
+
+"better","Adj","1.बेहतर"
+I wish you a better luck next time!
+
+"better","Adv","1.बेहतरतरीकेसे"
+The better I know him,the more I admire him.
+
+"better","N","1.औरयोग्यव्यक्ति"
+I expected better of him.
+
+"better","V","1.बेहतरबनाना"
+Sergei Bubka's record cannot be bettered.
+
+"between","Prep","1.केबीच"
+The house was between the trees.
+
+"beverage","N","1.पेयपानीकेअतिरिक्त"
+May I take your beverage order?
+
+"bevy","N","1.बडआझुंड"
+A bevy of beautiful birds were seen on the tree.
+
+"beware","V","1.सावधानहोना"
+Beware of pickpockets in the bank.
+
+"bewilder","VT","1.हैरानकरना"
+These puzzles and crosswords bewilder me.
+
+"bewitch","VT","1.जादूकरना"
+Her dressing and makeup bewitched the audience.
+
+"beyond","Prep","1.केपार"
+His lectures are beyond my comprehension.
+
+"bias","N","1.झुकाव"
+The umpire was biased towards the host team.
+
+"bib","N","1.बिब"
+Bib helps to protect clothes while eating.
+
+"biblical","Adj","1.बाइबिलका"
+Some writers have a biblical style of writing.
+
+"bicameral","Adj","1.दोव्यवस्थापकअंगयुक्त"
+India has a bicameral system of government.
+
+"bicentenary","N","1.दोसौवर्षीयउत्सव"
+The bicentenary of our institution was celebrated early this year.
+
+"bicentennial","Adj","1.दोसौवर्षवाला"
+The bicentenial celebration of our institution was held early this year.
+
+"bicker","N","1.झगडआ"
+I get jittery when I see the bicker of children.
+
+"bicker","VT","1.झगडआकरना"
+Children keep bickering all the time.
+
+"bicycle","N","1.साइकिल"
+I bought a new bicycle for myself.
+
+"bicyclist","N","1.साइकिलचलानेवाला"
+A bicyclist also ought to wear a helmet.
+
+"bid","N","1.नीलामकीबोली"
+She made a bid of 7 lacs for the painting.
+
+"bid","VT","1.बोलीबोलना"
+She bid 7 lacs for the painting.
+
+"bidder","N","1.बोलीलगानेवाला"
+The painting of Raja Ravi Varma went to the highest bidder.
+
+"bidding","N","1.बोली"
+The bidding at the stock market was brisk today.
+--"२.आज्ञा/विनती"
+At his father's bidding he wrote to the lawyer.
+
+"biennial","Adj","1.द्विवार्षिक"
+They met at biennial conventions
+
+"bier","N","1.अर्थी"
+We followed the bier to the graveyard.
+
+"big","Adj","1.बडआ"
+There is a big ground behind our flat.
+--"२.उम्रमेंबडई/बडआ"
+My big sister's wedding will be solemnised in February.
+--"३.महत्वपूर्ण"
+The last match is a big match for India.
+--"४.महत्वाकांक्षा"
+He has big ideas and plans in his mind.
+--"५.प्रसिद्ध"
+Cartoon network is a big among children.
+--"६.दयालु"
+Its very big of him to donate half of his salary to the flood victims.
+--"७.उत्तेजित"
+They feel big about the world tour.
+
+"bigamy","N","1.द्विपत्नीत्व"
+Bigamy is not permitted according to the Hindu law.
+
+"bigot","N","1.हठधर्मी"
+Taliban militia of Afghanistan are bigots.
+
+"bigotry","N","1.हठी"
+I'm totally against religious bigotry.
+
+"bile","N","1.पित्त"
+Biles helps the body to digest.
+
+"bill","N","1.बिल"
+Ram paid the bill at the hotel.
+--"२.चोंच"
+The bill of the sparrow is pointed.
+
+"bin","N","1.डिब्बा"
+Through the garbage in the bin.
+
+"binary","N","1.दोहरा"
+
+"bind","VT","1.बाध"
+The Chinese would bind the feet of their women
+
+"binding","Adj","1.आवश्यक"
+A binding contract
+--"२.बंधनवाला"
+Tight garments are uncomfortably binding
+
+"binding","N","1.जिल्द"
+The book had a leather binding
+
+"binocular","N","1.दूरबीन"
+He could see the distant birds with binoculars.
+
+"biographer","N","1.जीवनीलेखक"
+He is a biographer.
+
+"biography","N","1.जीवनी"
+He is writing the biography of his father.
+
+"biology","N","1.जीवविज्ञान"
+The biology of viruses
+
+"biplane","N","1.द्विपंखीवायुयान"
+
+"birch","N","1.सनौबरकापेड/सन्टी"
+
+"bird","N","1.चिडइया/पक्षी"
+Teh sanctuary has some of the rare birds during the winter months.
+
+"birth","N","1.जन्म"
+They divorced after the birth of the child
+They celebrated the birth of their first child
+
+"birthday","N","1.जन्मदिन"
+Ram's birthday is on 27th Feb.
+
+"birthplace","N","1.जन्मस्थान"
+Ram's birhtplace is a small town in the eastern U.P.
+The birthplace of civilization
+
+"birthrate","N","1.जन्मदर"
+
+"birthright","N","1.जन्मसिद्धअधिकार"
+Free public education is the birthright of every American child
+
+"biscuit","N","1.बिस्कुट"
+At tea time they serve tea with biscuits.
+
+"bishop","N","1.बिशप"
+
+"bismuth","Adj","1.कांसा"
+Bismuth is a delicate metal.
+
+"bit","N","1.टुकडआ"
+A bit of rock caught him in the eye
+All they had left was a bit of bread
+--"२.लगाम"
+The horse was not accustomed to a bit
+--"३.बिटकम्प्यूटर"
+There are 8 bits in a byte
+--"४.छोटाअंश"
+He looked around for the right size bit
+
+"bitch","N","1.कुतिया"
+She said her son thought Hilary was a bitch
+
+"bite","VT","1.काटना"
+Gunny invariably tried to bite her
+
+"bite","N","1.कौर/काट"
+He ate the sandwich in one bite.
+
+"biting","Adj","1.चुभताहुआ"
+It was biting cold outside.
+
+"bitter","Adj","1.कडउवा"
+The bitter truth is difficult to swallow.
+--"२.शोकमय"
+All the relatives shed bitter tears on his sudden death.
+--"३.कठोर"
+A bitter struggle
+Bitter cold
+
+"bitterly","Adv","1.कडउवाहटकेसाथ"
+She complained bitterly
+--"२.कसके"
+It was bitterly cold
+--"३.अधिक"
+He was bitterly disappointed
+
+"bitterness","N","1.कडउवापन"
+
+"bitumen","N","1.राल"
+
+"biweekly","Adv","1.अर्द्धसाप्ताहिक"
+
+"black","Adj","1.काला/श्याम"
+The shop specializes in black leather jackets.
+black deeds
+--"२.अंधेरा"
+The future looked black
+a black moonless night
+--"३.भयंकर"
+A face black with fury
+--"४.उदास/सोगी"
+Black humor
+Black propaganda
+
+"blackboard","N","1.ब्लैकबोर्ड/श्यामपट्ट"
+
+"blacking","N","1.स्याहीr{चमडआआदिचमकानेकीस्याही"
+
+"blackmail","N","1.ब्लैकमेल"
+
+"blacksmith","N","1.लुहार"
+
+"blade","N","1.पत्ती"
+--"२.धार/फलचाकूआदिका"
+
+"blame","N","1.दोष"
+He took the blame for it
+
+"blame","VI","1.दोषलगाना/अपराधीठहराना"
+We blamed the accident on her
+
+"blameless","Adj","1.निर्दोष"
+Ravi has lived a blameless life
+
+"bland","Adj","1.नीरस"
+A bland pudding
+A bland diet
+A bland little drama
+
+"blank","Adj","1.कोरा"
+Blank pages
+A blank stare
+A blank cartridge
+
+"blank","N","1.रिक्तस्थान"
+
+"blanket","N","1.कम्बल/लोई"
+There was a blanket of snow
+
+"blaspheme","VT","1.ईश्वरनिन्दाकरना"
+
+"blasphemy","N","1.ईश्वरनिन्दा"
+
+"blast","N","1.विस्फोट"
+
+"blast","VT","1.बारूदसेउडआदेना"
+--"२.जओरसेबोलना"
+She tended to blast when speaking into a microphone
+
+"blaze","N","1.दहक"
+The blaze spread rapidly
+Raising blazes
+
+"blaze","VT","1.दहकउठना"
+He blazed away at the men
+The spaceship blazed out into space
+
+"bleach","VT","1.उजलाकरना/निखारना"
+The sun bleached the red shirt
+Bleach the laundry
+
+"bleak","Adj","1.उदास"
+The night after the storm was a bleak night.
+--"२.शीतल"
+Bleak winds of the North Atlantic
+
+"bleed","VI","1.लहूनिकलना"
+He was bleeding profusely.
+
+"blemish","N","1.कलंक/दोष/त्रुटि"
+
+"blend","N","1.मिश्रण/मेल"
+
+"blend","VI","1.मिलना"
+This flavor will blend with those in your dish
+The colors blend well
+
+"blend","VT","1.मिलाना/मिश्रणकरना"
+Blend the nuts and raising together
+
+"bless","VT","1.आशीर्वाददेना"
+The dying man blessed his son
+
+"blessed","Adj","1.भाग्यवान"
+Our blessed land
+A blessed time
+Blessed with a strong healthy body
+
+"blessing","N","1.आशीर्वाद"
+He gave the project his blessing
+Enjoy the blessings of peace
+
+"blight","N","1.पाला/तुषार"
+
+"blight","VT","1.कुम्हलाना/मुरझाना/पालामारना"
+
+"blind","Adj","1.अंधा"
+Blind to a lover's faults
+Blind hatred
+--"२.असफल
+A blind attempt
+--"३.बन्द"
+Blind stitching
+A blind alley
+
+"blind","N","1.अंधा"
+He spent hours reading to the blind
+--"२.आड"
+he waited impatiently in the blind
+--"३.झिलमिली"
+they had just moved in and had not put up blinds yet
+
+"blind","VT","1.अन्धाकरना"
+The criminals were punished and blinded
+
+"blindfold","VT","1.आखबन्दकरदेना/भटकादेना"
+
+"blindness","N","1.अन्धापन"
+--"२.अज्ञानता"
+
+"blink","N","1.टिमटिमाहट/जगमगाहट/झलक/झपक"
+
+"blink","VT","1.आखझपकाना"
+The TV announcer never seems to blink.
+--"टिमटिमाना"
+One could se the lights blink from a distance.
+
+"bliss","N","1.आनन्द/हर्ष"
+
+"blister","N","1.छाला/फफोला/फुन्सी"
+
+"blithe","Adj","1.पुलकित/प्रसन्नचित"
+She spoke with blithe ignorance of the true situation
+He was loved for her blithe spirit
+
+"bloat","VI","1.फूलना/सूजना"
+The dead man's stomach was bloated
+
+"bloat","VT","1.फुलाना/सुजाना"
+Hunger bloated the child's belly
+
+"block","N","1.ब्लॉक"
+The pyramids were built with large stone blocks
+--"२.खण्डसमूह"
+He lives in the next block
+There is a block of classrooms in the west wing
+since blocks are often defined as a single sector, the terms `block' and `sector' are sometimes used interchangeably
+He reserved a large block of seats
+--"२.रोक"
+I knew his name perfectly well but I had a temporary block
+We had to call a plumber to clear out the blockage in the drainpipe
+--"३.कुन्दा"
+The engine had to be replaced because the block was cracked
+--"४.कील"
+They put their paintings on the block
+--"५.गुटका"
+He threw a rolling block into the line backer
+
+"block","VT","1.रोकना/बन्दकरना"
+Block the way
+His brother blocked him at every turn
+Block trains
+Block a nerve
+Block an attack
+--"२.बाधाडालना"
+The thick curtain blocked the action on the stage
+--"३.ब्लाकबनानाप्रिंटिंगका"
+Block the book cover
+Block a plate for printing
+--"४.ब्लॉकबनाना"
+Block the graphs so one can see the results clearly
+
+"blockade","N","1.नाकाबन्दी"
+
+"blockade","VT","1.नाकाबंदीकरना"
+
+"blond","Adj","1.सुनहराभूरा"
+Blond Scandinavians
+
+"blond","N","1.गोरेशरीरवनीलीआखवालामनुष्य"
+
+"blonde","Adj","1.सुनहराभूरा"
+
+"blonde","N","1.गोरेशरीरवनीलीआखवालीस्त्री"
+
+"blood","N","1.रक्त/खून/लहू"
+Blood carries oxygen and nutrients to the tissues and carries waste products away
+He avenged the blood of his kinsmen
+A person of hot blood
+We need more young blood in this organization
+
+"bloodless","Adj","1.रक्तहीन"
+The bloodless carcass of my Hector sold
+Bloodless surgery
+--"२.कठोर"
+An insipit and bloodless young man
+
+"bloodshed","N","1.रक्तपात/वध/रक्तबहाव"
+The bloodshed during the riots was very sad.
+
+"bloody","Adj","1.लहूलुहान"
+A bloody nose
+--"२.निर्दयी"
+
+"bloom","N","1.फूल"
+These roses have beautiful booms during the summer months.
+--"२.शिखरसौन्दर्यका"
+She is in the bloom of her youth.
+
+"bloom","VI","1.बहारपरआना"
+The cherry tree bloomed
+
+"blossom","N","1.फूल/पुष्प"
+
+"blossom","VI","1.फूलना/खिलना/समृद्धहोना/फलना"
+Youth blossomed into maturity
+
+"blot","N","1.दाग/धब्बा"
+He made a huge blot on his copybook
+
+"blot","VT","1.छीलना/२.दागदारकरना/धब्बालगाना"
+
+"blow","N","1.चोट"
+He suffered a big blow on his head in the accident.
+
+"blow","VI","1.उडना"
+The balloon is blowing high in the air.
+
+"blow","VT","1.उडआना"
+The breeze blew the shirt away.
+
+"blow out","PhrV","1.बुझाना"
+She blew out the candle of her cake.
+
+"blow over","PhrV","1.बिनाकिसीविशेषअसरसेघटजाना"
+Rumours about a big disaster on 8th May 99 blew over.
+
+"blow up","PhrV","1.विस्फोट"
+The bomb blew up the whole building.
+--"२.क्रोधकरना"
+He blew up at being cheated.
+--"३.अचानकऔरजोरसेशुरूहो जाना"
+Rain is blowing up.
+
+"blow in","PhrV","1.अचानकआना"
+??He has just blown in.
+
+"blow-dry","V","1.हेयरड्रायरसेबालसवारना"
+Blow-drying hair consumes a lot of electricity.
+
+"blow-hole","N","1.वायुछिद्र"
+Nostril is the blow-hole through which whales respire.
+
+"blow-out","VT","1.आगबुझाना"
+Fire men tried their level best to blow out the fire in the oil well.
+--"२.संगलन/गलना"
+Voltage fluctuation is an occasion when an electric fuse blows out.
+
+"blow-up","N","1.बडाकरना"
+Do a blow-up of this photograph.
+
+"blow-upon","V","1.निन्दाकरना"
+Politicians are bound to blow-upon each other.
+
+"blower","N","1.धौंकनी"
+A blower is a device that produces a current of air.
+--"२.दूरभाष"
+You can always get him on the blower.
+
+"blowlamp","N","1.ब्लोलैंप"
+He used the blowlamp to remove the paint.
+
+"blowzy","Adj","1.लालभद्देचेहरेवाली"
+Her aunt is a fat and blowzy woman.
+
+"blubber","N","1.ह्वेलमछलीकीचरबी"
+Oil is obtained from blubber.
+
+"blubber","VI","1.रोना - बिलखना"
+The Indian cricket fans blubbered after the team lost it's crucial match
+against Zimbabwe.
+
+"blubbery","Adj","1.चरबीदार/मोटा/सूजाहुआ"
+Persons who are suffering from obesity are generally blubbery.
+
+"bludgeon","N","1.डंडा"
+He was hit by bludgeon several times.
+
+"blue","Adj","1.नीला"
+Indian Airforce has blue uniform.
+--"२.दुखीभावना"
+After suffering a great loss in stock market he felt blue.
+--"३.अश्लील"
+Blue films are of great danger to the youth.
+
+"blue","N","1.नीलारंग"
+The sky is blue in colour.
+--"२.उपाधि"
+He got blue for football.
+--"३.उदाससंगीत"
+Blue music is still very popular.
+
+"blue whale","N","1.एकप्रकारकीसबसेबडईव्हेलमछली"
+Blue whale is the largest living animal on the earth.
+
+"blue bell","N","1.घण्टीकेसामानफूल"
+Hemangini`s garden is decorated by plants like blue bell.
+
+"blue berry","N","1.फल"
+Yashdev`s favourite fruit is blueberry.
+
+"blue bottle","N","1.मक्खी"
+I am regularly harassed by bluebottle.
+
+"bluegrass","N","1.एकप्रकारकासंगीत"
+Bluegrass is a country music played with stringed instruements.
+
+"blueprint","N","1.अन्तिमरूपरेखा"
+The blueprint of the dam project is ready.
+
+"bluestocking","N","1.विदुषी"
+Sarojini Naidu is a bluestocking of India.
+
+"blue stone","N","1.तूतिया"
+Blue stone is chemically copper sulphate.
+
+"blue water","N","1.विस्तृतसमुद्र"
+World's largest ship `Titanic' sank in the bluewater.
+
+"bluesky","N","1.नीलाआकाश"
+The summers have bluesky most of the time.
+
+"bluff","V","1.झासादेना/बेवकूफबनाना"
+He tried to bluff people by all means to work out his plan.
+
+"bluff","Adj","1.रूखा"
+He is known for his bluff behavior .
+
+"bluish","Adj","1.नीलासा"
+English people have bluish eyes.
+
+"blunder","N","1.चूक/भारीभूल"
+I committed a blunder by not going there.
+
+"blunder away","PhrV","1.कुप्रबन्धसेनष्टहो जाना"
+Antiques present in the museum blunder away.
+
+"blunder out","PhrV","1.बिनासोचेबोलपडना"
+I often blunder out without thinking twice.
+
+"blunderbuss","N","1.खुलेमुहवालीबन्दूक"
+Even today blunderbuss is the pride possession of many royal families in India.
+
+"blunderer","N","1.भारीभूलकरनेवाला"
+No one is ready to entrust any blunderer with any work.
+
+"blunderingly","Adv","1.गलतीसे"
+He blunderingly kept the hot iron on the bed.
+
+"blunt","Adj","1.भौंथरा"
+Lot of writing blunts a pencil.
+--"२.मुहफट"
+We shouldn't be blunt in our speech.
+
+"bluntly","Adv","1.बिनाकिसीबनावटके"
+He bluntly asked his friend to return the money.
+
+"blur","N","1.धब्बा"
+Losing to a weak team like Zimbabwe was a blur on the Indian cricket team.
+
+"blur","V","1.धुंधलाकरना"
+The early morning fog blurred our vision.
+
+"blurb","N","1.पुस्तककापरिचय"
+We can know the quality of a book by the blurb on the first page itself.
+
+"blurt","V","1.बिनासोचे-समझेबोलना"
+Abhishek blurted out the very confidential information without knowing it`s
+importance.
+
+"blush","V","1.शरमाना"
+She blushed when he flattered her.
+
+"blushing","Adj","1.लज्जारंजित"
+Girls are generally blushing in nature.
+
+"blushingly","Adj","1.लज्जासे"
+The bride entered the room blushingly.
+
+"bluster","VT","1.धमकाना"
+The union blustered the authority to end up the mismanagement.
+
+"bluster","N","1.शेखीबाज"
+A bluster ends up making fool of himself.
+
+"blusteringly","Adv","1.शेखीमारतेहुए"
+Hemraj always talks blusteringly.
+
+"blusterous","Adj","1.कोलाहली"
+Often blusterous people spoil the party.
+
+"boa","N","1.अजगर"
+Boa is one of the largest snakes present on the earth.
+
+"boar","N","1.सूअरपु."
+A boar was killed by the bullet of the hunter.
+--"२.बनैलासूअर"
+The wildboar was the centre of attraction in the zoo.
+
+"board","N","1.मंडल"
+The board of charted accountants are very strict about the behavior of
+their members.
+--"२.तख्ता/पट्टा"
+He put the score on the board.
+
+"above board","IDM","1.ईमानदार"
+The deal should be above board.
+
+"on board(a ship or an aircraft)","IDM","1.जहाजपर"
+All the passengers on board Boeing plane were killed in the air crash.
+
+"board","VT","1.चढना"
+Rahul boarded the plane for London.
+
+"board at","PhrV","1.भोजन/शरणदेनायापाना"
+I am boarding at Anil's house until I get a good house.
+
+"board up","PhrV","1.तख्तेलगाना"
+The doors were boarded up to prevent any intrusion.
+
+"boarder","N","1.आवासी"
+All the boarders at the school were divided in different houses.
+
+"boarding card","N","1.बोर्डिंगकार्ड" #जिसेदिखाकरजहाजमेंयात्राकरनेकीअनुमतिमिलतीहै
+He was not allowed to board the ship as he didnot have the boarding card.
+
+"boarding house","N","1.छात्रावास"
+I'm staying in a boarding house.
+
+"board money","N","1.नौकरकावेतन"
+Due to the lockout in the factory boardmoney was due.
+
+"boarding-school","N","1.आवासीयस्कूल"
+My son is in a boarding school at Ajmer.
+
+"boardroom","N","1.बैठकborDarUma"
+A heated debate was going on in the board room yesterday.
+
+"boardwalk","N","1.समुद्रतटपरतख्तेसेबनाहुआपथ"
+I spend my time chatting with my friend on the boardwalk.
+
+"boast","V","1.डींगमारना"
+Never boast about your achievements.
+--"२.गौरव"
+India can boast of its uniquely diverse culture.
+
+"boastful","Adj","1.डींगेहाकनेवाला"
+His speech reflected his boastful nature.
+
+"boast","N","1.डींग"
+His boast that he has achieved a lot in life impressed nobody.
+--"२.गर्व"
+It was his proud boast that he was sincere in his work despite his
+illness.
+
+"boat","N","1.नाव"
+We crossed the river by a small boat.
+
+"boating","VI","1.नौका-विहारकरना"
+We go boating on Hussain Sagar lake every Friday.
+
+"boat- hook","N","1.नावकाआकुडा"
+Boat-hook is one of the necessary part of the boat.
+
+"boat- house","N","1.शिकारा"
+Nowadays boat-houses are popular even in Kerala also.
+
+"boat people","N","1.शरणार्थीजोनावद्वाराजातेहैं"
+Vietnamese boat people are known the world over.
+
+"boater","N","1.एकप्रकारकीटोपी"
+I have never worn a boater.
+
+"boatman","N","1.केवट/नावचलानेवाला"
+On our visit to Rishikesh we became quiet friendly with the boatman.
+
+"boatswain","N","1.जहाज केझण्डोंआदिकीदेखभालकरनेवालाअधिकारी"
+The boatswain whom I know is not financially sound.
+
+"boatyard","N","1.नावरखनेकीजगह"
+Some of the boatyards are very well maintained.
+
+"bob","N","1.छोटेबालरखनेकाकिस्म"
+Bobcut was a very popular hairstyle in the sixties.
+
+"bob","V","1.ऊपरनीचेकरनाHonA"
+He bobbed his head in agreement.
+
+"bobbed","Adj","1.छोटेबालवाली"
+She sports a bobbed hairstyle.
+
+"bobbin","N","1.फिरकीसिलाईमशीनकी"
+Bobbin is a kind of reel around which a wire is wound.
+.
+"bobbery","N","1.शोरगुल"
+In the absence of teacher a situation of bobbery arose in the class room.
+
+"bobble","N","1.बॉबल" #लकडीकीछोटीगेंदजो सजावटकेलिएप्रयोगकीजातीहै
+I have always wanted to decorate my hat with a bobble.
+
+"bobby","N","1.पुलिसअफसरअनौपचारिक"
+My relative in Baroda is a bobby.
+
+"bobby-pin","N","1.बालोंमेंलगानेवालापिन"
+Some girls are very fond of bobby-pin.
+
+"bobsleigh","N","1.बर्फपरचलानेवालीरेसकीबडईगाडई"
+Bob sleighing is a popular sport in Europe.
+
+"bode","V","1.भविष्यसूचितकरना "
+So much corruption in high places does not bode well for democracy.
+
+"bodeful","Adj","1.अशुभ - सूचक"
+A cat crossing one's way is regarded bodeful.
+
+"bodement","N","1.भविष्यकथन"
+Many people in our country believe in bodement.
+
+"bodice","N","1.चोली/अगिया"
+She was in a very colourful bodice in the party.
+
+"bodied","Adj","1.विशेषप्रकारकाशरीररखनेवाला"
+All soldiers are able-bodied people.
+
+"bodily","Adj","1.शारीरिक"
+The soldiers stood by the post without worrying about any bodily harm.
+
+"bodingly","Adv","1.शगुनसे"
+Marriages in India are done bodingly.
+
+"body","N","1.शरीर"
+Human body is a unique creation of God.
+--"२.संस्था"
+The whole body of doctors were working on the new medicine.
+--"३.ढाचा"
+The body of the truck got completely damaged in the accident.
+
+"body and soul","IDM","1.पूर्णरूपसे"
+He is into the project body and soul.
+
+"body blow","N","1.जबरदस्तझटका"
+Injury to Robin was a body blow to our chances of victory.
+
+"bodyguard","N","1.अंगरक्षक"
+His bodyguard was killed in the recent shoot-out.
+
+"bog","N","1.दलदल"
+He was caught in the bog.
+
+"boggle","N","1.शंका"
+
+"boggle","VT","1.झिझकना"
+This boggles the mind!
+
+"bogus","Adj","1.नकली"
+The trunk was full of bogus currency notes.
+
+"boil","N","1.फोडआ"
+He has a boil on his back.
+--"२.उबाल"
+The brought to water to a boil
+
+"boil","VI","1.उबलना"
+Water boils at 100 degrees Celsius
+
+"boil","VT","1.उबालना"
+Boil potatoes
+Boil this liquid until it evaporates
+
+"boiler","N","1.पतीला"
+They had installed a boiler in the bathroom for heating water.
+
+"boisterous","Adj","1.उधमी"
+A boisterous crowd
+Boisterous practical jokes
+--"२.प्रलयकारी"
+Boisterous winds and waves
+
+"bold","Adj","1.दबंग"
+Bold settlers on some foreign shore
+--"२.स्पष्ट"
+Bold handwriting
+
+"boldly","Adv","1.साहसपूर्वक"
+Little Hari boldly faced the theives till the police arrived.
+
+"bolster","N","1.मसनद"
+
+"bolster","VT","1.सहारादेना"
+
+"bolt","N","1.चटखनी"
+He locked the bolts on the doors.
+--"२.फलाग"
+He took a big bolt in the thin air.
+
+"bolt","V","1.भागजाना"
+She bolted from her seat
+--"२.चटखनीलगाना"
+Bolt the door
+--"३.चौंकजाना"
+The listeners bolted when he discussed his strange ideas
+
+"bomb","N","1.बम"
+The man had a crude bomb on him.
+
+"bomb","VT","1.बमगिराना"
+The Americans bombed Dresden
+
+"bombard","VT","1.गोलाचलाना"
+The soldiers bombarded the enemy camp.
+
+"bombast","N","1.लम्बीचौडईबातचीत"
+
+"bombast","V","1.लम्बीचौडईबातचीतकरना"
+He bombasted his audience.
+
+"bombastic","Adj","1.बडएबडएशब्दोंसेभराहुआ"
+His bombastic speech did not impress his audience.
+
+"bond","N","1.बन्धन"
+The sisters had a strong bond between them.
+--"२.प्रतिज्ञापत्र"
+He was made to sign a bond before joing his new job.
+
+"bondage","N","1.दासत्व"
+The labour lived in bondage for centuries.
+
+"bone","N","1.हड्डी/अस्थि"
+He broke his collar bone.
+
+"bonfire","N","1.अलाव"
+They celebrated holi by lighting a bonfire.
+
+"bonnet","N","1.बोनट"
+He lifted the cover from the bonnet to see what was wrong in the engine.
+--"२.टोपीस्त्रियोंकेओढनेकी"
+The lady was wearing a black bonnet.
+
+"bonny","Adj","1.सुन्दर"
+My bonny lass
+
+"bonus","N","1.बोनस"
+The employees were given a bonus for the festival.
+
+"bony","Adj","1.हड्डीदार"
+Emaciated bony hands
+A bony shad fillet
+
+"booby","N","1.मूर्ख"
+He is a real booby.
+
+"book","N","1.पुस्तक/किताब"
+I am reading a good book on economics
+He used a large book as a doorstop
+They got a subpoena to examine our books
+The book of Isaiah
+He bought a new daybook
+He bought a book of stamps
+
+"book","VT","1.बुककरना"
+Her agent had booked her for several concerts in Tokyo
+The policeman booked her when she tried to solicit a man
+
+"bookcase","N","1.किताबोंकीअलमारी"
+I am looking for an ornate boocase.
+
+"booklet","N","1.छोटीपुस्तक/गुटका"
+He carries a booklet on gita in his pocket.
+
+"bookseller","N","1.पुस्तकविक्रेता"
+A number pf booksellers participated in the book exhibition.
+
+"book~keeper","N","1.मुनीम/लेखाकार"
+He works as a book-keeper in a small store.
+
+"book~keeping","N","1.लेखाजोखा"
+He is very good at book-keeping.
+"boom","N","1.सहसावृध्दि"
+Her garment business is booming nowadays.
+--"२.लम्बाडंडाजोपतवारकोतानेरहताहै"
+They have fixed a very light boom in the boat so it got broke.
+--"३.धडआका/गूज"
+The boom of the guns could be heard from very far.
+
+"boomerang","N","1.बूमरैंग" #आस्ट्रेलियाकेआदिवासियोंद्वाराप्रयुक्तएकमुडआहुआबाणजोफेंकनेवालेकेपासलौटआताहै
+
+Nowadays boomerangs are very popular among children.
+
+"boomerang","V","1.विपरीतआपडना"
+Her attempt to defame me boomeranged on her when I charged her with libel.
+
+"boon","N","1.वरदान"
+Parks are a great boon to the children in big cities.
+
+"boon","Adj","1.खुशमिजआज"
+They are both boon couples.
+
+"boondocks","N","1.देहात"
+Their family lives way out in the boondocks.
+
+"boor","N","1.असभ्य/उजड्ड"
+Don't invite him,He is such a boor!
+
+"boorish","Adj","1.उजड्डपन"
+She behaves in a boorish manner, in front of every body.
+
+"boost","V","1.बढआवादेना"
+The unexpected increase in share prices helped to boost the market.
+
+"boost","N","1.बढआवा"
+This small gift as a token will be a boost for the child's improvement.
+
+"booster","N","1.वर्धककोईचीजजोबढआवादे"
+She needs a morale booster to come out of the grief.
+--"२.विद्युतवोल्टेजवर्धकयंत्र"
+Students have put the booster in their exhibt to make it working.
+
+"boot","N","1.जूता"
+She bought a pair of winter boots.
+--"२.कारमेंसामानरखनेकास्थान"
+You can put the luggage in the boot.
+
+"boot","V","1.लातमारना"
+Boot the ball towards goalkeeper.
+
+"bootee","N","1.बच्चेकेऊनीजूते"
+She has knitted a beautiful pair of bootee for her new born baby.
+
+"booth","N","1.बूथ"
+Organizers have erected many booths in the trade fair.
+There is a telephone booth near my house.
+
+"bootlace","N","1.जूतेबाधनेकाफीता"
+Her son never ties bootlaces properly.
+
+"bootleg","V","1.अवैधतरीकेसेशराबबनानाऔरबेचना"
+Government has put the ban on smuggling bootleg liquor.
+
+"bootstrap","N","1.जूतापहननेमेंसहायकचमडएकाटुकडआ"
+Her child finds it difficult to put on shoes because he never pulls up
+bootstraps.
+
+"booty","N","1.लूटकामाल"
+Government has found large amount of booty from the Militants.
+
+"booze","V","1.ज्यादाशराबपीना"
+She likes to go out boozing with her boy friends.
+
+"booze","N","1.शराब"
+His partner has gone on the booze again.
+
+"boozer","N","1.पियक्कड"
+My friend has always been a great boozer since he was young.
+
+"boozy","Adj","1.मदमत्त"
+It was a boozy party.
+
+"bop","N","1.पौपसंगीतपरनृत्य"
+They had a nice bop in the party.
+
+"bop","V","1.मुक्केयालाठीसेमारना"
+They bopped the thief continously.
+
+"borage","N","1.सलादपत्ती"
+My friend loves to eat borage leaves in salad.
+
+"borax","N","1.सुहागा"
+We can use borax powder as an antiseptic.
+
+"bordeaux","N","1.सफेदयालालशराबबोरडेक्सस्थानसे"
+People use to smuggle bordeaux from the neighbouring districts.
+
+"bordello","N","1.वेश्यालय"
+Bordellos are also known as'red light'areas.
+
+"border","N","1.सीमा"
+Our friends camped on the border of a river.
+--"२.किनारा"
+She has a beautiful tablecloth with laced border.
+
+"border","V","1.सेलगाहुआहोना"
+How many countries border India?
+--"२.सीमाबनाना"
+Her garden is bordered on three sides by a tough hedge.
+
+"borderland","N","1.सीमावर्तीप्रदेश"
+We crossed the border from Andhra Pradesh to Madhya Pradesh at night.
+
+"borderline","N","1.सीमारेखा"
+The borderline between formal and informal behavior is diffecult express.
+
+"borderline","Adj","1.जोनिश्चितरूपसेप्रासंगिकनहो"
+He is a borderline student.
+
+"bore","V","1.छेदकरनायाभेदना"
+They have to bore a tunnel through a mountain.
+
+"bore","N","1.बन्दूककीनली"
+His father always carries twelve-bore shotgun.
+
+"bore","V","1.जीउबाना"
+I hope you are not getting bored listening to me.
+
+"bore","N","1.उबानेवाला"
+Don't be such a bore!
+
+"bored","Adj","1.जीऊबनेवाला"
+He gets very bored with his friend's company.
+
+"boredom","N","1.ऊब"
+One can easily find out a look of boredom on his face.
+
+"boring","Adj","1.उबाऊ/नीरस"
+It's a boring job,I can't continue.
+
+"bore","N","1.ज्वारकीऊचीलहर"
+Many persons died due to sudden bore in the sea.
+
+"born","V","1.जन्मलेनाHonA"
+Her son was born in 1990.
+He was born to be a great singer.
+
+"born","Adj","1.जन्मजात"
+Sunil Gavaskar's son will be a born cricketer.
+
+"borne","V","1.जन्म दिया"
+She has borne (him) six children.
+
+"borough","N","1.उपनगर"
+
+"borrow","V","1.उधारलेना"
+Can I borrow some money from you?
+--"२.उधारलियाहुआ"
+They have borrowed music from other composers.
+
+"borrower","N","1.कर्जदार/ऋणी"
+She is a born borrower,borrows every pity things from others.
+
+"borrowing","N","1.ऋणलेना"
+The word'maidan'is an example of borrowing from Hindi to English.
+
+"borstal","N","1.बालसुधारगृह"
+Those young criminals have been sent to borstal.
+"bosom","N","1.हृदय"
+His bosom was bursting with the secret
+
+"bosom","VT","1.मनमेंरखना"
+She bosomed his letters
+
+"boss","N","1.बॉस"
+The boss hired three more men for the new job
+He is his own boss now
+Party bosses have a reputation for corruption
+
+"boss","VT","1.प्रबन्धकरना/देखभालकरना"
+He bosses around here.
+
+"botany","N","1.वनस्पतिशास्त्र"
+He is an expert in Botany.
+
+"botch","N","1.मुहांसा"
+His face was full of botches.
+
+"both","Conj","1.दोनो/उभय"
+
+"both","Det","1.दोनो/उभय"
+Both of his recent books are on poaching.
+
+"bother","VT","1.तंगकरना"
+Mosquitoes buzzing in my ear really bothers me
+Don't bother the professor while she is grading term papers
+The mere thought of her bothered him and made his heart beat faster
+
+"bothersome","Adj","1.झंझटी/बखेडएका"
+Going to the city is quite bothersome.
+
+"bottle","N","1.बोतल"
+Vinegar is in the bottle on the left.
+
+"bottle","VT","1.बोतलमेंबन्दकरना/बंधनमेंरखना"
+Cool the sauce and bottle it in disinfected bottles.
+
+"bottom","N","1.सबसेनीचेकाभाग"
+They started at the bottom of the hill
+--"३.जहाज"
+They did much of their overseas trade in foreign bottoms
+
+"bottomless","Adj","1.अथाह/अगम"
+A bottomless pit
+Aottomless pajamas consisting simply of a long top opening down the front
+A bottomless supply of money
+One of the bottomless mysteries of life
+Bottomless dancers
+
+"bough","N","1.शाखा/डाल/टहनी"
+
+"bouillon","N","1.रसा/झोल/शोरबा"
+
+"boulder","N","1.गोलपत्थर"
+The were huge boulders on both sides of the road.
+
+"bounce","N","1.छलांग"
+The ball gave a big bounce.
+
+"bounce","VI","1.उछलपडना"
+The rubber ball bounced
+He bounced to his feet
+--"२.वापिसआना"
+The check bounced
+Bounce a check
+--"३.मारना"
+The ex-boxer's job is to bounce people who want to enter this private club
+
+"bound","Adj","1.लाचार/विवश"
+Bound and gagged hostages
+A bound official
+Felt bound by his promise
+--"२.जिल्दवाले"
+Bound volumes
+--"३.गुजरनेवाला"
+Bound to happen
+Children bound for school
+
+"bound","N","1.छलांग/उछलकूद"
+The theif cleared the fence in one bound.
+--"२.सीमा"
+
+"bound","VTI","1.कुलाचेमारना/उछलना"
+The horse bounded across the meadow
+
+"boundary","N","1.सीमा/घेरा/मेढ"
+Plant lanterna all along the boundary.
+
+"boundless","Adj","1.असीम/अनन्त/अमित/निरवधि"
+He is full of boundless enthusiasm.
+
+"bounty","N","1.उदारता/दानशीलता/सहायता"
+Business enterprises' bounty supllied the roads in the city.
+
+"bouquet","N","1.गुलदस्ता/फूलोंकागुच्छा"
+The chief guest was offered a bouquet at the beginning of the function.
+
+"bourgeoisie","N","1.बुर्जुआ/मध्यवर्गी"
+This political party fully relies on the bourgeoisie votes.
+
+"bourn","N","1.छोर/किनारा/सीमा"
+--"२.धारा/सरिता"
+
+"boutique","N","1.बुटीक"
+She has a boutique on the main street.
+
+"bovine","Adj","1.पशुवत्"
+Showed a bovine apathy
+
+"bow","N","1.बो"
+She was wearing a green bow.
+--"२.कमान"
+He pointed the bow of the boat toward the finish line
+
+"bow","V","1.झुकना"
+The children bowed to the audience after the dance.
+
+"bower","N","1.कुंज"
+In the corner of the garden was a rose bower.
+
+"bowl","N","1.कटोरा/प्याला"
+I like mud colored ceramic bowls.
+
+"bowl","VT","1.गेंदफेंकना"
+The bowler bowled an off spin.
+
+"bowman","N","1.धनुषधारी"
+Bowmen sorrounded the king.
+
+"box","N","1.सन्दूक"
+He rummaged through a box of spare parts
+He gave her a box of chocolates
+The royal box was empty
+--"२.वर्ग"
+The flowchart contained many boxes
+--"३.जगह"
+The sentry stayed in his box to avoid the cold
+The umpire warned the batter to stay in the batter's box
+An armed guard sat in the box with the driver
+--"४.घूंसा"
+I gave him a good box on the ear
+
+"box","VT","1.बक्सेमेंबन्दकरना"
+Box the gift, please
+--"२.घूंसामारना"
+He boxed him on the ear.
+
+"boy","N","1.लडका"
+The baby was a boy
+Get out of my way boy
+--"२.दोस्त"
+He likes to play golf with the boys
+
+"boycott","VT","1.बहिष्कारकरना"
+The opposition boycotted the meeting.
+
+"boyhood","N","1.लडकपन"
+He spent his boyhood in the USA.
+
+"boyish","Adj","1.बालसदृश"
+He gave a boyish grin.
+
+"brace","N","1.धनुकोष्ठक"
+He wore a brace on his knee
+
+"brace","VT","1.दृढकरना"
+Brace your elbows while working on the potter's wheel.
+
+"bracelet","N","1.पौंहची"
+She had a gold bracelet on her wrist.
+
+"brach","N","1.आखेटीकुतिया"
+
+"bracket","N","1.कोष्ठक/ब्रैकट"
+Put the grammatical category in brackets after each entry.
+
+"bracket","VT","1.कोष्ठमेंबन्दकरना"
+Please bracket this remark
+
+"brackish","Adj","1.खारी/खारा"
+A brackish lagoon
+
+"brag","N","1.डींग"
+His brag is worse than his fight
+
+"brag","VT","1.डींगहाकना"
+He is always bragging about his achievemets.
+
+"braid","N","1.वेणी"
+She decorated her long braids with flowers.
+
+"braid","VT","1.बटना/गूंथना"
+Braid a collar
+Braid hair
+
+"brain","N","1.बुद्धि"
+He's got plenty of brains but no common sense
+
+"brake","N","1.ब्रेक/गतिरोधक"
+My car brakes are not working properly.
+
+"bramble","N","1.कटीलीझाडई"
+He fell in the brambles.
+
+"bran","N","1.भूसी/चोकर"
+Separate the bran from the grain.
+
+"branch","N","1.शाखा"
+A branch of Congress
+He broke off one of the branches
+
+"branch","V","1.विभाजितहोना"
+This road branches off into three lanes after two kilometers.
+
+"brand","N","1.ब्रांडचिह्न"
+There's a new brand of hero in the movies now
+
+"brand","VT","1.चिह्नबनाना"
+She was branded a loose woman
+
+"brandish","VT","1.घुमाना/फिराना/भाजना/लपलपाना"
+The thief brandished a knife at the residents of the house.
+
+"brandy","N","1.ब्रांडीएकप्रकारकीमदिरा"
+A swig of brandy helps in a bad cold.
+
+"brass","N","1.पीतल"
+The doors have brass handles.
+--"२.धृष्ट"
+
+"bravado","N","1.साहसप्रदर्शन"
+His threats are nothing but sheer bravado.
+
+"brave","Adj","1.साहसी"
+Familiarity with danger makes a brave man braver but less daring
+Girls decked out in brave new dresses
+
+"brave","VT","1.सामनाकरना/ललकारना"
+Brave the natural elements
+She braved the elements
+
+"bravery","N","1.साहस"
+The book is full of episoed of his bravery.
+
+"brawl","N","1.लडआई"
+They were all involved in a street brawl.
+
+"brawl","VT","1.झगडना"
+They don't mind brawling in the streets.
+
+"brawn","N","1.सूअरकामासar"
+The dish has brawn in it.
+--"२.पुट्ठा"
+The job needs brawn power.
+
+"brawny","Adj","1.गठीला"
+He loves showing off his brawny physique.
+
+"bray","N","1.रेंकना"
+His bray gave him away.
+
+"bray","VT","1.रेंकना"
+The donkey started to bray rather loudly.
+
+"brazen","Adj","1.निर्लज्ज/बेशर्म"
+He is quite brazen in his behaviour.
+
+"breach","N","1.दरार"
+The bridge developed a breach soonafter construction.
+
+"breach","VT","1.दरारकरना"
+Our tanks breached their defence.
+
+"bread","N","1.ब्रेड"
+The bakery has good quality brown bread.
+--"२.जीविका/रोजई"
+He is the only member in his family to earn bread.
+
+"breadth","N","1.विस्तार"
+A teacher must have a breadth of knowledge of the subject
+
+"break","N","1.दरार"
+They hoped to avoid a break in relations
+The break in the dam threatened the valley
+The break in the eighth frame cost him the match
+--"२.शुरुआत"
+He finally got his big break
+He made a break for the open door
+--"३.छुट्टी"
+We took a 10-minute break
+It was presented without commercial breaks
+--"४.अन्तर"
+He was up two breaks in the second set
+
+"break","VT","1.भंगकरना"
+Break the loaf of bread
+The book dealer would not break the set
+--"२.बलतोडना"
+The horse was tough to break
+If the new teacher won't break, we'll add some stress
+Break a circuit
+--"३.कमकरना"
+Break cigarette smoking
+--"४.फूटना"
+Break into tears
+--"५.चलना"
+Things have been breaking pretty well for us in the past few months
+--"६.तोडना"
+My daughter's fancy wedding is going to break me!
+I had to break a $100 bill just to buy the candy
+Break a branch from a tree
+For a hero loves the world till it breaks him
+--"७.फटना"
+His voice is breaking--he should no longer sing in the choir
+--"८.फोडना"
+Break an alibi
+Break the code
+
+"breaker","N","1.तोडनेवाला"
+
+"breakfast","N","1.जलपान"
+For breakfast the restaurant offers a wide range of Indian and continental dishes.
+
+"breast","N","1.छाती"
+He beat his breast in anger
+
+"breath","N","1.सास"
+He took a deep breath and dived into the pool
+His sour breath offended her
+--"२.झोंका"
+Not a breath of scandal ever touched her
+There wasn't a breath of air in the room
+
+"breathe","VTI","1.सासलेना"
+I can breathe better when the air is clean
+Every creature that breathes
+He breathed new life into the old house
+--"२.चुपकेसेकहना"
+Not breathe a word
+
+"breathless","Adj","1.स्तब्ध"
+Breathless at thought of what I had done
+--"२.हफादेनेवाली"
+A breathless flight
+
+"breech","N","1.पेंदा"
+
+"breed","N","1.वंश"
+A breed of Americans
+He experimented on a particular breed of white rats
+
+"breed","VT","1.पैदाकरनाkaravAnA"
+She breeds dogs
+
+"breeding","N","1.उच्चवंश"
+A woman of breeding and refinement
+
+"breeze","N","1.मन्दसमीर"
+The breeze was cooled by the lake
+
+"brevity","N","1.लाघव"
+
+"brew","VI","1.उमडना"
+The tea is brewing
+
+"brew","VT","1.मद्यबनाना"
+They brew wine every year.
+
+"brewery","N","1.शराबकीभट्टी"
+
+"bribe","N","1.रिश्वत"
+He was offered a bribe to do the job but he refused to accept it.
+
+"bribe","VT","1.रिश्वतदेना"
+They bribed the officials to get the licence.
+
+"bribery","N","1.रिश्वतखोरी"
+Bribery is an evil.
+
+"brick","N","1.ईंट"
+I prefer bricks to stones.
+
+"bridal","Adj","1.वधूका"
+Bridal gown
+--"२.विवाहका"
+Bridal procession
+
+"bridal","N","1.विवाह/विवाहोत्सव"
+
+"bride","N","1.नववधू/दुल्हन"
+Everyone was leaning forward to get a glimpse of the royal bride.
+
+"bridegroom","N","1.वर/दूल्हा"
+The bridegroom came on a horse.
+
+"bridesmaid","N","1.दुल्हनकीसहेली"
+I was my fraiend's bridesmaid at her wedding.
+
+"bridge","N","1.सेतु"
+His letters provided a bridge across the centuries
+Her glasses left marks on the bridge of her nose
+--"२.ताशकाएकखेल"
+They spent the evening playing bridge.
+
+"bridge","VT","1.पुलबाधना"
+Bridge a river
+--"२.अंतरमिटाना"
+For the relationship to continue it is important for them to bridge their differences.
+
+"bridle","N","1.लगाम"
+His common sense is a bridle to his quick temper
+
+"bridle","VT","1.लगामदेना"
+Bridle horses
+
+"brief","Adj","1.संक्षिप्त"
+Covered the matter in a brief statement
+--"२.लघु"
+A brief stay in the country
+
+"brief","N","1.सारपत्र"
+In the beginning he presented a brief of the last meeting.
+
+"brig","N","1.दोमस्तूलवालीनौका"
+
+"brigade","N","1.सेनादल"
+Our brigade was ordered to march forward.
+
+"bright","Adj","1.चमकीला"
+The sun was bright and hot
+Bright greens
+Bright silver candlesticks
+--"२.तेज"
+Some children are brighter in one subject than another
+The bright sound of the trumpet section
+--"३.उज्ज्वल"
+The room was bright and airy
+Had a bright future in publishing
+--"४.दीप्तिमान"
+The bright stars of stage and screen
+Bright faces
+
+"brighten","VI","1.चमकना"
+The sky brightened
+
+"brighten","VT","1.उज्जवलकरदेना"
+The paint will brighten the room
+
+"brightness","N","1.चमक"
+The brightness of her face told it all.
+
+"brilliance","N","1.दीप्ति"
+
+"brilliant","Adj","1.तेजोमय"
+A brilliant performance
+The brilliant court life at Versailles
+A brilliant star
+
+"brim","N","1.कगार"
+The cup was filled till the brim.
+
+"brimstone","N","1.गन्धक"
+
+"brine","N","1.खारापानी"
+The water here tastes like brine.
+
+"bring","VT","1.लानाle~jAnA"
+Can I bring my cousing to the dinner?
+Bring an extra cup for me.
+
+"brink","N","1.तट"
+He was at the brink of loosing the match.
+
+"brisk","Adj","1.फुर्तीला"
+A brisk walk in the park
+Doing a brisk business
+
+"brisket","N","1.जानवरकीछाती"
+
+"bristle","N","1.सूअरकाबाल"
+The brush has neat bristles.
+
+"bristle","VT","1.सीधाखडआहोना"
+Bristle yourself to hear the news.
+
+"brittle","Adj","1.भंगुर"
+Brittle bones
+A brittle and calculating woman
+
+"broach","VT","1.चर्चाकरना"
+He decided to broach the isuue before the evening was over.
+
+"broad","Adj","1.विस्तृत"
+A broad rule
+A broad lawn
+--"२.स्पष्ट"
+Gave us a broad hint that it was time to leave
+A broad southern accent
+A broad political stance
+
+"broadcast","Adj","1.प्रसारित"
+The broadcast news
+The broadcast sowing of wheat
+
+"broadcast","Adv","1.चारोंओर/फेंककर"
+
+"broadcast","VTI","1.प्रसारितकरना"
+The event was broadcasted live on TV.
+
+"broaden","VT","1.चौडआकरना"
+Broaden the road
+The road broadened
+
+"broadside","N","1.नौकाकाएकपक्ष"
+The ship was broadside to the dock
+
+"brocade","N","1.ब्रोकेड"
+This saree has beautiful brocade.
+
+"broil","N","1.शोरगुल"
+
+"broil","V","1.सेंकना"
+Broil fish
+The sun broils the valley in the summer
+
+"broker","N","1.दलाल"
+He is a land-broker.
+
+"brokerage","N","1.दलाली"
+He was paid his brokerage.
+
+"bronchitis","N","1.फेफडएकीसूजन"
+
+"bronze","N","1.कासा"
+She bought a bronze statue for the left corner of her sitting room.
+
+"brooch","N","1.ब्रोचएकप्रकारकागहना"
+She pinned the brooch on her shoulder.
+
+"brood","N","1.बच्चे"
+The bitch moved to a new corner with her brood.
+
+"brood","VI","1.चिन्ताकरना"
+The terrible vision brooded over her all day long
+--"२.अंडेसेना"
+Birds brood
+
+"brook","N","1.छोटीनदी"
+There are lovely lilies near the brook.
+
+"brook","VT","1.सहना"
+The teacher does not brook any nonsense.
+
+"broom","N","1.झाडऊ"
+She picked up the broom from the corner of the room to clean the floor.
+
+"broth","N","1.शोरबा"
+The curry has thich fish broth.
+
+"brother","N","1.भाई"
+My brother still lives with our parents
+None of his brothers would betray him
+
+"brotherhood","N","1.बन्धुत्व"
+In their community their is a strong feeling of brotherhood.
+
+"brotherly","Adj","1.भ्रातृसदृश"
+Brotherly feelings
+"brow","N","1.भौं"
+She gets her brows plucked from the beauty parlour.
+--"२.शिखर"
+This path goes straight towards the brow of the hill.
+
+"browbeat","V","1.धमकाना"
+The lawyer browbeat the witness.
+
+"browbeaten","Adj","1.धमकायाहुआ"
+Poor browbeaten children sat quietly in the class.
+
+"brown","Adj","1.भूरा"
+Rajini was wearing a brown sweater.
+
+"brown","N","1.भूरा"
+His shirt has shades of brown.
+
+"brownish/browny","Adj","1.भूराजैसा"
+He has a brownish/browny hair.
+
+"browse","V","1.पृष्ठपलटाना"
+I browsed through a magazine before entering the examination hall.
+--"२.चरना"
+I saw cattle browsing in your field.
+
+"browse","N","1.पृष्ठपलटाना"
+I had a browse among the second-hand books.
+
+"bruise","N","1.चोट"
+The soldier was covered with bruises after returning from the front.
+
+"bruise","VT","1.चोटलगना"
+He fell from the bike and bruised himself.
+
+"bruiser","N","1.हट्टा-कट्टाआदमी"
+Bruisers play the role of villians in Hindi films.
+
+"bruising","Adj","1.कठिनऔरथकानेवाला"
+Cricket is a pretty bruising game.
+
+"brunch","N","1.नाश्तेऔरखानेकोसाथखाना"
+I usually have brunch instead of breakfast and lunch.
+
+"brunette","N","1.गोरीस्त्रीजिसकेकालेबालहो"
+We find more of blondes than brunettes in Europe.
+
+"brush","N","1.कूची"
+He paints beautifully with brush.
+--"२.लोमडईकीपूछ"
+I saw a fox with a small brush.
+--"३.हलका स्पर्श"
+He knocked the glass off the table with a brush of his coat.
+--"४.भिडंत"
+The staff had a nasty brush with their manager.
+
+"brush","VT","1.ब्रुशसेझाडनायासाफकरना"
+I brush my teeth everyday.
+
+"brush aside","PhrV","1.एकओरधकेलदेना"
+The army brushed aside the enemy.
+--"२.अनदेखाकरना"
+All his proposals were brushed aside by the committee.
+
+"brush away","PhrV","1.ब्रुशसेहटाना"
+I brushed the fly away from the child's face.
+
+"brush oneself down","PhrV","1.ब्रुशसेसाफकरना"
+I brushed my books down as they were covered with dust.
+
+"brush up","PhrV","1.पुनभ्यासकरना"
+I need to brush up my Sanskrit before I start chanting shlokas.
+
+"brush-off","N","1.इनकारकरना"
+The committee gave a brush-off to all his proposals.
+
+"brush wood","N","1.पेडकीटूटीहुईडआलियायालकडइया"
+Villagers use brush wood as fuel.
+
+"brusque","Adj","1.अशिष्ट/रूखा"
+His manners are typically brusque.
+
+"brusqueness","N","1.अशिष्टता/रूखापन"
+Everyone dislikes the brusqueness of his manners.
+
+"brutal","Adj","1.क्रूर/निर्दयी/बर्बर/नृशंस/कठोर"
+Auto Shankar of Chennai was a brutal murderer.
+
+"brutally","Adv","1.क्रूरतासे"
+He was brutally assaulted by the police.
+
+"brutality","N","1.क्रूरता"
+Brutalities of war send shivers down my spine.
+
+"brutalize","V","1.नृशंस बनाना"
+The hard life in the high mountains had brutalized the boys.
+
+"brute","Adj","1.क्रूर/निर्दय"
+His drunkard father is a brute.
+
+"brute force","Adj","1.नीच प्रवृति/पशुपन"
+The police applied brute force to extract more information from the criminal.
+
+"brutish","Adj","1.पशुवत"
+I hate that drunkards brutish behaviour.
+
+"brutishly","Adv","1.पशु कि तरह से"
+When he is angry,he behaves brutishly.
+
+"brute","N","1.भावशून्यमनुष्य"
+The brutes did not even spare the children.
+--"२.पशु"
+The jungle was full of wild brutes.
+
+"bubble","Adj","1.असार"
+
+"bubble","N","1.बुलबुला"
+Life is a bubble that can burst any day.
+
+"bubble","VI","1.खदबदाना/बुलबुलेउठना"
+The lava bubbled in the crater.
+
+"buck","N","1.मृग/हिरन"
+I saw three wild bucks in the bushes.
+
+"bucket","N","1.बाल्टी"
+She kept the bucket under the tap.
+
+"buckle","N","1.बकल/बकसुआ"
+His shoe buckle was broken.
+
+"buckle","VT","1.बकललगाना/बकसुआलगाना"
+He buckled the shoes tightly.
+--"२.मुडना"
+His knees buckled
+The highway buckled during the heatwave
+
+"bud","N","1.कली"
+He always used a rose bud in his button-hole.
+--"२.कलमलगाना"
+He budded the hybrid rose for me.
+
+"bud","VI","1.कलीनिकालना"
+The hibiscus is budding!
+--"२.पल्लवितहोना"
+Their friendship was budding.
+
+"buddiing","Adj","1.पल्लवितहोतीहुई"
+They have a budding friendship
+
+"budge","VI","1.हिलना/हटना"
+He did not budge from his point of view.
+
+"budge","VT","1.हिलाना/हटाना"
+
+"budget","N","1.बजट"
+The laboratory runs on a budget of a million a year
+The president submitted the annual budget to Congress
+
+"buff","Adj","1.बादामी"
+She was wearing a buff color saree.
+
+"buff","N","1.भैंसआदिकाचमडआ"
+In the buff
+
+"buffalo","N","1.भैंसा"
+Buffaloes love water.
+
+"buffet","N","1.बुफे"
+We were given a buffet lunch.
+
+"buffet","VT","1.धक्कामुक्कीकरना"
+Winds buffeted the tent
+The wind buffeted him
+
+"buffoon","N","1.भाड/ठठोला/स्वांगी"
+
+"bug","N","1.कीडआ"
+The bed was full of bugs.
+
+"bugle","N","1.बिगुल/तुरही/करनाई"
+The sepoy blew the bugle.
+
+"build","N","1.निर्माण/बनावट"
+
+"build","VT","1.बनाना"
+Build a reputation
+Government is building new school in this state
+This investment is building interest
+--"२.निर्माणकरना"
+Build a modern nation
+These architects build in interesting and new styles
+--"३.स्थापितकरना/बलदेना"
+Build a defense on nothing but the accused person's reputation
+--"४.बढना"
+Suspense was building right from the beginning of the opera
+
+"building","N","1.इमारत"
+There was a three-story building on the corner
+The entire building complained about the noise
+--"२.निर्माण"
+Building of the house is taking too much of my energy.
+
+"bulb","N","1.बल्ब"
+The kids broke the bulb by hitting a ball.
+--"२.कन्द"
+The bulb of a syringe
+
+"bulge","N","1.उभार"
+The bulge of the bowl was visible in the bag.
+
+"bulge","VI","1.उभरना/निकलआना"
+His eyes bulged with surprise
+
+"bulk","N","1.थोक"
+It is cheaper to buy it in bulk
+
+"bulk","VI","1.दिखना"
+The parcel bulked in the sack
+
+"bulky","Adj","1.बडआ/२.स्थूल"
+
+"bull","N","1.साड"
+He was a bull of a man
+
+"bulldog","N","1.बुलडागबडआचौडएमुहकाकुत्ता"
+--"२.हठीऔरसाहसीमनुष्य"
+
+"bullet","N","1.गोली"
+He shat a bullet at her.
+
+"bulletin","N","1.सरकारीसमाचार"
+Today's bulletin was full of budget news.
+
+"bullion","N","1.चादीसोनेकीईंट"
+The bullion rates have fallen today.
+
+"bullock","N","1.बैल"
+One his bullocks is sick.
+
+"bully","Adj","1.धौंसदिखानेवाला"
+A bully pulpit
+
+"bully","N","1.धौंसदिखानेवालामनुष्य"
+Ramesh is a real bully.
+
+"bully","VT","1.धमकाना/झिडकना"
+He bullies everyone around him.
+
+"bulwark","N","1.कोट/चारदीवारी"
+
+"bump","N","1.गुमडआ"
+He hit the wall very hard and got a bump on his forehead.
+--"२.टक्कर"
+The bump threw him off the bicycle
+
+"bumper","N","1.बम्पर"
+Bumper of my car has come off.
+
+"bun","N","1.पावबन"
+They ate buns with tea for dinner.
+
+"bunch","N","1.गुच्छा"
+He gave a bunch of flowers.
+--"२.झुरमुट"
+A bunch of trees
+
+"bunch","VI","1.एकत्रहोना"
+The frighened children bunched together in the corner of the classroom
+She bunched her fingers into a fist
+
+"bundle","N","1.गठ्ठा/गठरी/पुलिन्दा"
+Tie a bundle of these papers.
+
+"bungalow","N","1.बंगला/कोठी/घर"
+He lives in the bungalow at the corner of the street.
+
+"bungle","VT","1.घपलाकरना"
+I bungled it!
+
+"buoy","N","1.तरेरीपानीपरतैरनेवालाचिह्न"
+
+"buoy","VT","1.तैरताहुआरखना"
+The life vest buoyed him up
+
+"buoyancy","N","1.तैराव"
+
+"buoyant","Adj","1.प्रफुल्लित"
+Buoyant spirits
+--"२.तैरताहुआ/बहताहुआ"
+Buoyant balloons
+
+"burden","N","1.बोझ"
+The burden of responsibility
+
+"burden","VT","1.लादना"
+She was burdened with the responsiblity of her handicapped father and three younger sisters.
+
+"burdensome","Adj","1.भारी"
+The burdensome task of preparing the income tax return
+
+"bureau","N","1.लिखनेकीमेज/दफतर/विभाग"
+In the corner was a kept a bureau of teakwood.
+
+"bureaucracy","N","1.नौकरशाही"
+Too much of bureaucracy hinders fast progress.
+
+"burgess","N","1.नगरजन"
+
+"burglar","N","1.चोर"
+The police chased the burgler.
+
+"burial","N","1.दफनकरना/मिट्टीदेना"
+Her burial was performed on the Sunday following her death.
+
+"burke","VT","1.गलाघोंटकरमारना"
+Burke an issue
+
+"burlesque","Adj","1.परिहास्य/तमाशेका"
+Burlesque theater
+
+"burlesque","N","1.परिहास"
+
+"burlesque","VT","1.परिहासकरना"
+
+"burly","Adj","1.स्थूल"
+He was a burly man with a happy face.
+
+"burn","N","1.जलनेकाघाव"
+He received severe burns in the fire.
+
+"burn","VI","1.जलना"
+Maple wood burns well
+She was burning with anger
+My eyes are burning
+
+"burn","VT","1.जलाना"
+They burned the house and his diaries
+The sun burned his face
+She was burning with anger
+Burn garbage
+Witches were burned in Salem
+He has money to burn
+Burn off calories through vigorous exercise
+The iron burnt a hole in my dress
+
+"burner","N","1.बर्नर"
+
+"burning","Adj","1.दाहक"
+A burning fever
+--"२.ज्वलन्त"
+Burning issues of the day
+--"३.जलानेवाला"
+Coal-burning (or wood-burning) stoves
+--"४.जलताहुआ"
+Begged for water to soothe his burning throat
+
+"burnish","VI","1.चमकना/झलकना"
+
+"burnish","VT","1.चमकाना/माजना/झलकाना"
+
+"burrow","N","1.बिल"
+
+"burrow","VT","1.खोदना"
+Burrow through the forest
+
+"burst","N","1.तडक"
+A burst of applause
+
+"burst","VI","1.फटना"
+The bubble burst
+The dam burst
+--"२.निकलभागना"
+He burst out of the house into the cool night
+--"३.एकाएकप्रकटहोजाना"
+The sun burst into view
+
+"bury","VT","1.दफनाना"
+She was buried later that evening.
+
+"bus","N","1.बस"
+He always rode the bus to work
+The fenders had fallen off that old bus
+
+"bush","N","1.झाडई"
+He was hiding behind the bushes.
+
+"bushel","N","1.बत्तीससेरकातौल"
+
+"bushy","Adj","1.झाडईदार"
+Bushy locks
+
+"business","N","1.उद्योग"
+He bought his brother's business
+--"२.व्यापार"
+Computers are now widely used in business
+--"३.व्यवसाय"
+He's not in my line of business
+Government and business could not agree
+--"४.धंधा"
+Business is good today
+Gossip was the main business of the evening
+--"५.मामला"
+It's none of your business
+
+"bust","N","1.छाती"
+The portrait showed his bust.
+--"२.रेड"
+They went on a bust that lasted three days
+
+"bustle","N","1.हलचल"
+The streets were full of morning bustle.
+
+"busy","Adj","1.व्यस्त"
+She busy with her work.
+
+"but","Conj","1.परन्तु"
+Sonu eats sweets but Sweety doesn't.
+
+"but","Prep","1.केअतिरिक्त"
+Nobody but only you could do that.
+
+"but","Adv","1.केवल"
+He is but a boy.
+
+"butcher","N","1.कसाई"
+The butcher's son has become an officer.
+
+"butcher","VT","1.निर्दयतासेवधकरना"
+The militants butchered the captured soldiers.
+
+"butler","N","1.खआनसामा"
+Our butler is on leave.
+
+"butt","N","1.नीचेकाहिस्सा"
+The ash-tray was full of cigarette butts.
+--"२.बडआपीपा"
+We bought a new water butt.
+--"३.सिरयासींगोंसेटक्करमारना"
+He gave a head butt to his sister.
+--"४.हास्यकापात्र"
+The juniors have become the butt of everyone's jokes.
+
+"butt","V","1.सिरयासींगोंसेटक्करमारना"
+He butted his sister in the stomach.
+
+"butter","N","1.मक्खन"
+I had bread and butter for my breakfast.
+
+"butter","V","1.मक्खनलगाना"
+You have not buttered my toast properly.
+Sita has been buttering her mother to get permission for going to Bombay.
+
+"butterfly","N","1.तितली"
+Butterflies are beautiful.
+
+"buttermilk","N","1.मठ्ठा"
+Buttermilk is very good for health.
+
+"buttock","N","1.नितम्ब"
+His left buttock is paining.
+
+"button","N","1.बटन"
+The elevator was operated by a push buttons
+
+"button","VT","1.बटनलगाना"
+He always forgets to button his shirt.
+
+"buttress","N","1.पुश्ता"
+The government's fiscal policy acts as a buttress against inflation.
+
+"buy","VT","1.खरीदना"
+I can't afford to buy expensive things.
+
+"buy","N","1.खरीद"
+The best buys of this winter are carrots and peas.
+
+"buyer","N","1.ग्राहक"
+I haven't yet found a buyer for my secondhand car.
+
+"buzz","N","1.भनभनाहट"
+The buzz of a bee distracted my concentration.
+
+"buzz","V","1.भनभनाना"
+This office is buzzing with activity.
+
+"by","Adv","1.समीप"
+He took the pen when noone was by.
+
+"by","Prep","1.पासमें/साथमें"
+She came and sat by me.
+--"२.द्वारा"
+The book was given to him by Ram.
+--"३.से"
+He was holding the child by hand.
+
+"by-law","N","1.उपविधि"
+By-laws are seldom followed in our locality.
+
+"by-product","N","1.उपफल"
+Unemployment is one of the by-product of population growth.
+
+
