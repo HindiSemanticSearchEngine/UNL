@@ -1,0 +1,10 @@
+------------------Set of Roots and Features are---------------------- 
+Token : रखना,  Total Output : 3
+[ Root : रखना, Class : D, Category : noun, Suffix : Null ]
+	[ Gender : +masc, Number : , Person : , Case : , Tense : , Aspect : , Mood :  ]
+[ Root : रख, Class : , Category : verb, Suffix : ना ]
+	[ Gender : x, Number : x, Person : x, Case : x, Tense : x, Aspect : x, Mood : x ]
+[ Root : रख, Class : , Category : verb, Suffix : ना ]
+	[ Gender : +masc, Number : +pl, Person : x, Case : x, Tense : +infinitive, Aspect : x, Mood : x ]
+		ा -> [ Gender : +masc, Number : +pl, Person : x, Case : x, Tense : x, Aspect : x, Mood : x ]
+		न -> [ Gender : x, Number : x, Person : x, Case : x, Tense : +infinitive, Aspect : x, Mood : x ]

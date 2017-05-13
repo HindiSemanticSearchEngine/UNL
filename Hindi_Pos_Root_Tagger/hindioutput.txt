@@ -1,4 +1,7 @@
-तुमको	तुमको	PRP		unk				
-स्कूल	स्कूल	NN	0	n	m	sg	3	d
-जाना	जान	VM	या	v	m	sg	any	
-है	है	VAUX	है	v	any	sg	2	
+क्या	क्या	WQ		avy				
+तुम	तू	PRP	0	pn	any	pl	2	d
+मुझे	मुझे	PRP		unk				
+कुछ	कुछ	QF		adj	any	any		d
+और	और	CC		adv				
+जानकारी	जानकारी	NN	0	n	f	sg	3	d
+दोगे	दे	VM	गा	v	m	pl	2	
