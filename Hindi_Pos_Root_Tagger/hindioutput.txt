@@ -1,7 +1,11 @@
-क्या	क्या	WQ		avy				
-तुम	तू	PRP	0	pn	any	pl	2	d
-मुझे	मुझे	PRP		unk				
-कुछ	कुछ	QF		adj	any	any		d
-और	और	CC		adv				
-जानकारी	जानकारी	NN	0	n	f	sg	3	d
-दोगे	दे	VM	गा	v	m	pl	2	
+लखनऊ	लखनऊ	JJ		unk				
+मुठभेड	मुठभेड	NN	0	n	m	sg	3	d
+से	से	PSP	0	v	any	any	any	
+जुडे	जुड	VM	एं	v	any	sg	2	
+मामले	मामला	NN	0	n	m	pl	3	d
+की	का	PSP	का	psp	f	sg		d
+जांच	जांच	NN		unk				
+एनआईए	एनआईए	NN		unk				
+करेगी	कर	VM	गा	v	f	sg	2	
+राजनाथ	राजनाथ	XC		unk				
+सिंह	सिंह	NNP	0	n	m	sg	3	d

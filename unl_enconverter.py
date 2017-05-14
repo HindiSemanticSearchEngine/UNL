@@ -5,6 +5,7 @@ from rootANDpostag import RootPostag
 # Importing Relations class from relation module
 from relation import Relations
 
+# importing from neo4j driver
 from py2neo import Graph
 from py2neo import Node, Relationship
 
@@ -28,13 +29,17 @@ class Enconversion:
         for i, j, k in zip(input_words, root_words, pos_tags):
             word_dic.append({"word":i, "root_word":j, "pos_tag":k})
 
-        graph = Graph("http://<username>:<password>@localhost:7474/db/data/")
+        graph = Graph("http://neo4j:abc123@localhost:7474/db/data/")
 
         rel = Relations()
 
         word = []
         for i in xrange(0, len(word_dic)):
-            word.append(Node(word_dic[i]['word'], Word = word_dic[i]['word'], RootWord = word_dic[i]['root_word'], PosTag = word_dic[i]['pos_tag']))
+            print word_dic[i]['word'],word_dic[i]['root_word'],word_dic[i]['pos_tag']
+            try:
+                word.append(Node(word_dic[i]['word'], Word = word_dic[i]['word'], RootWord = word_dic[i]['root_word'], PosTag = word_dic[i]['pos_tag']))
+            except:
+                word.append(Node('InvalidIdentifier', Word = 'InvalidIdentifier', RootWord = 'InvalidIdentifier', PosTag = 'InvalidIdentifier'))
             graph.create(word[i])
 
         # Checking for unl relations between a pair of words in the sentence
@@ -66,7 +71,10 @@ class Enconversion:
                         agt = Relationship(word[j], 'AGT', word[i])
                         graph.create(agt)
 
+
+'''
 # Taking input of a sentence
 query = raw_input("Enter your search query: ")
 enc = Enconversion()
 enc.enconversion(query)
+'''
