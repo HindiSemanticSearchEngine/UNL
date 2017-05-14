@@ -29,7 +29,7 @@ class Enconversion:
         for i, j, k in zip(input_words, root_words, pos_tags):
             word_dic.append({"word":i, "root_word":j, "pos_tag":k})
 
-        graph = Graph("http://neo4j:abc123@localhost:7474/db/data/")
+        graph = Graph("http://<username>:<password>@localhost:7474/db/data/")
 
         rel = Relations()
 
