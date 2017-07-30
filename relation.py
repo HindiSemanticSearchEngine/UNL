@@ -94,7 +94,7 @@ class Relations:
         else:
             return False
 
-    def obj_relation(w1,w2):
+    def obj_relation(self, w1, w2):
         if w1['pos_tag'] == 'NN' and w2['pos_tag'] == 'VM:
     		return True
 
