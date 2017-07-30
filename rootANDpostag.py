@@ -8,7 +8,7 @@ class RootPostag:
     def rootWORD_and_posTAG(self, query):
 
         # The sentence is written in a text file
-        f = open('Hindi_Pos_Root_Tagger/hindi.input.txt','w')
+        f = open('/Hindi_Pos_Root_Tagger/hindi.input.txt','w')
         f.write(query)
         f.close()
         # The model finds root-words and pos-tags

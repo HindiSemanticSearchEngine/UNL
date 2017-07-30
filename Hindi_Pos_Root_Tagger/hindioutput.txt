@@ -1,11 +1,3 @@
-लखनऊ	लखनऊ	JJ		unk				
-मुठभेड	मुठभेड	NN	0	n	m	sg	3	d
-से	से	PSP	0	v	any	any	any	
-जुडे	जुड	VM	एं	v	any	sg	2	
-मामले	मामला	NN	0	n	m	pl	3	d
-की	का	PSP	का	psp	f	sg		d
-जांच	जांच	NN		unk				
-एनआईए	एनआईए	NN		unk				
-करेगी	कर	VM	गा	v	f	sg	2	
-राजनाथ	राजनाथ	XC		unk				
-सिंह	सिंह	NNP	0	n	m	sg	3	d
+नीला	नीला	JJ	0	n	m	sg	3	d
+या	या	CC		avy				
+हरा	हरा	XC	0	v	any	any	any	
