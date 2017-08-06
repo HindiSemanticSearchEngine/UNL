@@ -13,27 +13,6 @@ from py2neo import Graph, Node, Relationship, Rev
 py2neo.authenticate("localhost:7474", "neo4j", "algo7917")
 graph = Graph("http://localhost:7474/db/data/")
 
-class Enconversion(Graph, Node, Relationship, Rev):
-    '"Class for enconverting a sentence into unl graph"'
-
-
-    # function to create UNL-graph for sentences
-    '''
-    def createRelationshipWithProperties(self):
-        amy = Node("FEMALE", name="Amy")
-        kristine = Node("FEMALE",name="Kristine")
-        sheryl = Node("FEMALE",name="Sheryl")
-        kristine_amy = Relationship(kristine, "FRIEND", amy, since = 2005)
-        amy_sheryl = Relationship(amy, Rev("FRIEND"), sheryl, since = 2001)
-        resultNodes = graph.create(kristine_amy,amy_sheryl)
-        print(resultNodes)
-        amy_sheryl.properties['since'] = 2005
-        amy_sheryl.push()
-        sheryl.properties['name'] = 'Jane'
-        sheryl.push()
-        print(resultNodes)
-    '''
-
 def createRelationshipWithProperties(query):
     # creating an object of class RootPostag
     rootPostag = RootPostag()
