@@ -1,3 +1,5 @@
+# -*- coding: UTF-8 -*-
+
 class Relations:
     '"Class for identifying unl relation between two words"'
 
@@ -54,9 +56,6 @@ class Relations:
         if w1['pos_tag'] == 'NNP' and w2['pos_tag'] == 'PRP':
             return True
 
-        elif w1['pos_tag'] == 'PRP' and w2['pos_tag'] == 'NN':
-            return True
-
         elif w1['pos_tag'] == 'NN' and w2['pos_tag'] == 'PRP':
             return True
 
@@ -88,12 +87,6 @@ class Relations:
         if w1['pos_tag'] == 'NN' and  w2['pos_tag'] == 'NNP':
             return True
 
-        elif w1['pos_tag'] == 'NNP' and w2['pos_tag'] == 'NN':
-            return True
-
-        elif w1['pos_tag'] == 'PRP' and w2['pos_tag'] == 'NNP':
-            return True
-
         elif w1['pos_tag'] == 'NNP' and w2['pos_tag'] == 'PRP':
             return True
 
@@ -103,25 +96,16 @@ class Relations:
 
     def obj_relation(self, w1, w2):
         if w1['pos_tag'] == 'NN' and w2['pos_tag'] == 'VM':
-    		return True
-
-    	elif w1['pos_tag'] == 'VM' and w2['pos_tag'] == 'NN':
-    		return True
-
-    	elif w1['pos_tag'] == 'NNP' and w2['pos_tag'] == 'VM':
             return True
 
-        elif w1['pos_tag'] == 'VM' and w2['pos_tag'] == 'NNP':
+        elif w1['pos_tag'] == 'NNP' and w2['pos_tag'] == 'VM':
             return True
 
         elif w1['pos_tag'] == 'VAUX' and w2['pos_tag'] == 'NNP':
             return True
 
-        elif w1['pos_tag'] == 'NNP' and w2['pos_tag'] == 'VAUX':
-            return True
-
-    	else:
-    		return False
+        else:
+            return False
 
 
     def ant_relation(self, sentence):
@@ -137,7 +121,7 @@ class Relations:
                     elif i['pos_tag'] == 'PRP' and j['pos_tag'] == 'PRP':
                         return True
 
-                    elif (i['pos_tag'] == 'JJ' and j['pos_tag'] == 'JJ':
+                    elif i['pos_tag'] == 'JJ' and j['pos_tag'] == 'JJ':
                         return True
 
                     else:
