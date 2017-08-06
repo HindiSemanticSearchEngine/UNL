@@ -6,10 +6,9 @@ class RootPostag:
 
     # This function will find the root-words and pos-tags for each word of the sentence passed as a parameter
     def rootWORD_and_posTAG(self, query):
-
         # The sentence is written in a text file
-        f = open('Hindi_Pos_Root_Tagger/hindi.input.txt','w')
-        f.write(query)
+        with open('Hindi_Pos_Root_Tagger/hindi.input.txt','w') as f:
+            f.write(query)
         f.close()
         # The model finds root-words and pos-tags
         os.system("cd Hindi_Pos_Root_Tagger && make tag")
