@@ -48,44 +48,42 @@ def createRelationshipWithProperties(query):
             relationships.append(Relationship(nodes[-1], Rev('LINKED'), headNode))
 
         # Checking for unl relations between a pair of words in the sentence
-        for i in range(0, len(word_dic)):
-            for j in range(0, len(word_dic)):
-                if i != j: # If same words are not chosen together
+        for i in range(0, len(word_dic)-1):
+            for j in range(i+1, len(word_dic)):
+                label1 = nodes[i]
+                label2 = nodes[j]
+                #label1 = Node(word_dic[i]['pos_tag'], word = word_dic[i]['word'], root_word = word_dic[i]['root_word'], pos_tag = word_dic[i]['pos_tag'])
+                #label2 = Node(word_dic[j]['pos_tag'], word = word_dic[j]['word'], root_word = word_dic[j]['root_word'], pos_tag = word_dic[j]['pos_tag'])
 
-                    label1 = nodes[i]
-                    label2 = nodes[j]
-                    #label1 = Node(word_dic[i]['pos_tag'], word = word_dic[i]['word'], root_word = word_dic[i]['root_word'], pos_tag = word_dic[i]['pos_tag'])
-                    #label2 = Node(word_dic[j]['pos_tag'], word = word_dic[j]['word'], root_word = word_dic[j]['root_word'], pos_tag = word_dic[j]['pos_tag'])
+                if rel.qua_relation(word_dic[i], word_dic[j]):
+                    relationships.append(Relationship(label1, 'QUA', label2))
+                if rel.qua_relation(word_dic[j], word_dic[i]):
+                    relationships.append(Relationship(label1, Rev('QUA'), label2))
 
-                    if rel.qua_relation(word_dic[i], word_dic[j]):
-                        relationships.append(Relationship(label1, 'QUA', label2))
-                    if rel.qua_relation(word_dic[j], word_dic[i]):
-                        relationships.append(Relationship(label1, Rev('QUA'), label2))
+                if rel.dur_relation(word_dic[i], word_dic[j]):
+                    relationships.append(Relationship(label1, 'DUR', label2))
+                if rel.dur_relation(word_dic[j], word_dic[i]):
+                    relationships.append(Relationship(label1, Rev('DUR'), label2))
 
-                    if rel.dur_relation(word_dic[i], word_dic[j]):
-                        relationships.append(Relationship(label1, 'DUR', label2))
-                    if rel.dur_relation(word_dic[j], word_dic[i]):
-                        relationships.append(Relationship(label1, Rev('DUR'), label2))
+                if rel.agt_relation(word_dic[i], word_dic[j]):
+                    relationships.append(Relationship(label1, 'AGT', label2))
+                if rel.agt_relation(word_dic[j], word_dic[i]):
+                    relationships.append(Relationship(label1, Rev('AGT'), label2))
 
-                    if rel.agt_relation(word_dic[i], word_dic[j]):
-                        relationships.append(Relationship(label1, 'AGT', label2))
-                    if rel.agt_relation(word_dic[j], word_dic[i]):
-                        relationships.append(Relationship(label1, Rev('AGT'), label2))
+                if rel.aoj_relation(word_dic[i], word_dic[j]):
+                    relationships.append(Relationship(label1, 'AOJ', label2))
+                if rel.aoj_relation(word_dic[j], word_dic[i]):
+                    relationships.append(Relationship(label1, Rev('AOJ'), label2))
 
-                    if rel.aoj_relation(word_dic[i], word_dic[j]):
-                        relationships.append(Relationship(label1, 'AOJ', label2))
-                    if rel.aoj_relation(word_dic[j], word_dic[i]):
-                        relationships.append(Relationship(label1, Rev('AOJ'), label2))
+                if rel.nam_relation(word_dic[i], word_dic[j]):
+                    relationships.append(Relationship(label1, 'NAM', label2))
+                if rel.nam_relation(word_dic[j], word_dic[i]):
+                    relationships.append(Relationship(label1, Rev('NAM'), label2))
 
-                    if rel.nam_relation(word_dic[i], word_dic[j]):
-                        relationships.append(Relationship(label1, 'NAM', label2))
-                    if rel.nam_relation(word_dic[j], word_dic[i]):
-                        relationships.append(Relationship(label1, Rev('NAM'), label2))
-
-                    if rel.obj_relation(word_dic[i], word_dic[j]):
-                        relationships.append(Relationship(label1, 'OBJ', label2))
-                    if rel.obj_relation(word_dic[j], word_dic[i]):
-                        relationships.append(Relationship(label1, Rev('OBJ'), label2))
+                if rel.obj_relation(word_dic[i], word_dic[j]):
+                    relationships.append(Relationship(label1, 'OBJ', label2))
+                if rel.obj_relation(word_dic[j], word_dic[i]):
+                    relationships.append(Relationship(label1, Rev('OBJ'), label2))
 
         for r in relationships:
             resultNodes = graph.create(r)
