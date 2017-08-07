@@ -33,21 +33,29 @@ def createRelationshipWithProperties(query):
         # pos_tags is list which will store the corresponding pos-tags for each token
         root_words, pos_tags = rootPostag.rootWORD_and_posTAG(sentence)
 
+        # headNode for each graph will be unique
+        headNode = Node('URL', url = 'http://www.livehindustan.com/news/ncr/article1-aam-admi-party-leader-kumar-vishwas-says-will-take-decision-tonight-809231.html')
+
+        # List of relationships
+        relationships = []
+
         # Making a list of dictionaries/nodes, where each dictionary/node will contain properties of the individual word/node
         nodes = []
         word_dic = []
         for i, j, k in zip(input_words, root_words, pos_tags):
             word_dic.append({"word":i, "root_word":j, "pos_tag":k})
             nodes.append(Node("UNL-Word", word=i, root_word=j, pos_tag=k))
+            relationships.append(Relationship(nodes[-1], Rev('LINKED'), headNode))
 
         # Checking for unl relations between a pair of words in the sentence
-        relationships = []
         for i in range(0, len(word_dic)):
             for j in range(0, len(word_dic)):
                 if i != j: # If same words are not chosen together
 
-                    label1 = word_dic[i]['pos_tag']#.encode('utf-8')
-                    label2 = word_dic[j]['pos_tag']#.encode('utf-8')
+                    label1 = nodes[i]
+                    label2 = nodes[j]
+                    #label1 = Node(word_dic[i]['pos_tag'], word = word_dic[i]['word'], root_word = word_dic[i]['root_word'], pos_tag = word_dic[i]['pos_tag'])
+                    #label2 = Node(word_dic[j]['pos_tag'], word = word_dic[j]['word'], root_word = word_dic[j]['root_word'], pos_tag = word_dic[j]['pos_tag'])
 
                     if rel.qua_relation(word_dic[i], word_dic[j]):
                         relationships.append(Relationship(label1, 'QUA', label2))
