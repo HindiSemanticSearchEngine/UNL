@@ -55,7 +55,8 @@ def main():
     print 'Now Querying Graph'
     random_line_index = randint(10, 15)
     line = file_contents[random_line_index].strip()
-    query_graph(line)
+    data = query_graph(line)
+    print data
 
 
 if __name__ == '__main__':
