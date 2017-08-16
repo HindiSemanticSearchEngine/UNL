@@ -10,7 +10,7 @@ from relation import Relations
 import py2neo
 from py2neo import Graph, Node, Relationship, Rev
 
-py2neo.authenticate("localhost:7474", "neo4j", "algo7917")
+py2neo.authenticate("localhost:7474", "username", "password")
 graph = Graph("http://localhost:7474/db/data/")
 
 def createRelationshipWithProperties(query):
