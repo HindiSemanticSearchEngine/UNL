@@ -1,11 +1,9 @@
 import re
-
-data_file = open("UNL_KB.txt","r")
-word=[]
-r = raw_input("Enter the word to find matching word\n")
-for line in data_file:
-	if re.match("(.*)"+r,line):
+def mat(word):
+    data_file = open("UNL_KB.txt","r")
+    for line in data_file:
+	if re.match("(.*)"+word,line):
 		for i in line.split(")"):
-			if "(" in i:
-				print i.split("(")[-1]
+		    if "(" in i:
+		        print i.split("(")[-1]
 
